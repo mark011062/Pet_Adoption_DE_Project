@@ -1,0 +1,6 @@
+pandas>=2.0
+pyarrow>=12.0
+psycopg2-binary>=2.9
+numpy>=1.25
+uuid>=1.30
+Faker>=22.0

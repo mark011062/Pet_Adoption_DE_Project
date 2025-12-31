@@ -1,0 +1,557 @@
+pet_id,name,age,gender,size,status,date_arrived,adopted_date,type,breed,shelter_name,city,state,snapshot_date
+2ca00722-d264-4e07-8691-5378d2bbd693,Pet_1685,2,Male,Large,Available,2025-07-25,,Dog,Beagle,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+38a4d84c-2f12-46be-ba92-e49fd8353440,Pet_6894,5,Male,Small,Adopted,2025-10-21,2025-12-24,Cat,Bengal,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+3e058aaa-654c-4440-a2d1-a41c445ae563,Pet_5550,1,Female,Large,Pending,2025-08-29,,Cat,Abyssinian,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+39ec4563-a815-46c6-9860-6f2004aad63b,Pet_1400,12,Female,Medium,Pending,2025-12-21,,Cat,Oriental Shorthair,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+4d833eac-4334-4437-b77a-85771055f9ab,Pet_5653,0,Female,Small,Available,2025-09-29,2025-11-15,Dog,Boxer,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+8696b017-75b0-4230-9420-e3b09e795c72,Pet_9574,15,Female,Medium,Pending,2025-07-10,,Dog,Mastiff,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+5df5e891-d7c0-4334-9cb6-3e84bd33b2ff,Pet_7047,2,Male,Medium,Pending,2025-08-10,,Cat,Devon Rex,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+7fb2db7f-a518-419b-bb6f-88c549f797fc,Pet_3461,9,Male,Large,Adopted,2025-11-09,,Dog,Yorkshire Terrier,Forever Homes,SomeCity,SomeState,2025-12-31
+949ec0f4-00c1-45dc-9853-ececc95f3798,Pet_7984,1,Male,Small,Pending,2025-07-27,,Dog,Mastiff,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+6d604980-da84-4057-9009-8cf8706e7588,Pet_6384,13,Female,Small,Available,2025-12-28,2026-03-05,Dog,Boxer,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+554c7b70-db88-4281-99ae-5ccea9a473f4,Pet_7927,5,Male,Small,Pending,2025-11-18,2026-02-14,Cat,Siamese,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+ef4d2984-5fa2-40a6-9de2-0002cea03f65,Pet_6819,9,Male,Medium,Available,2025-10-04,,Cat,Abyssinian,Forever Homes,SomeCity,SomeState,2025-12-31
+2be512ed-1ae4-44df-8685-3c0f415767de,Pet_3242,6,Female,Large,Available,2025-10-14,2025-12-30,Cat,Persian,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+baf24745-63e9-4062-b3c4-83d906a49311,Pet_8952,15,Male,Large,Available,2025-08-10,,Cat,British Shorthair,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+4b3b1726-1d34-4506-88b8-572bdcb18fe2,Pet_7716,6,Female,Medium,Adopted,2025-08-23,,Cat,Scottish Fold,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+4f50a9bd-3a1e-4376-bab7-6ec0495c30d0,Pet_4738,14,Female,Small,Available,2025-07-05,,Cat,Birman,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+c9800135-29a7-40a9-b4f8-2e46aa41c220,Pet_5415,3,Male,Small,Adopted,2025-10-16,2025-12-26,Dog,Rottweiler,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+c74a430a-378a-4701-80b7-243dfcd887c1,Pet_5740,7,Female,Medium,Pending,2025-09-20,,Cat,Oriental Shorthair,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+fa7c6303-1a92-4d2d-b6fa-e98630dc09bd,Pet_4229,3,Male,Medium,Available,2025-11-12,2025-11-15,Dog,Mastiff,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+4009aa76-22c5-4ae9-9ce3-72b22aafc576,Pet_3801,4,Male,Small,Pending,2025-12-12,2026-01-09,Cat,Turkish Van,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+dcd1d9f3-83e4-4391-82bc-338e83cf2d01,Pet_5154,15,Male,Large,Pending,2025-08-28,,Dog,Shih Tzu,Forever Homes,SomeCity,SomeState,2025-12-31
+3e954f39-ea2f-4822-a12f-10723c27337a,Pet_7229,7,Male,Small,Pending,2025-08-25,,Cat,Sphynx,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+3d10975d-310e-4509-9c97-f85ed4933272,Pet_6826,5,Male,Medium,Available,2025-08-12,2025-10-26,Dog,Border Collie,Forever Homes,SomeCity,SomeState,2025-12-31
+a20b6e87-181c-4269-aa18-5c4bd9ee6bac,Pet_2493,13,Male,Medium,Available,2025-10-28,2026-01-16,Cat,Maine Coon,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+71252858-5f47-43ad-b531-80007a2d45f9,Pet_7337,9,Male,Large,Available,2025-10-10,2025-11-29,Cat,Norwegian Forest Cat,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+fe774268-20a5-4636-a998-41c8640886bc,Pet_2551,15,Male,Small,Available,2025-11-01,,Dog,Border Collie,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+f6773f95-d63d-4f8d-939e-6cb979610e5d,Pet_2302,10,Female,Large,Adopted,2025-09-18,,Dog,Dachshund,Forever Homes,SomeCity,SomeState,2025-12-31
+19c01960-16a6-4612-833e-3343fc1fff79,Pet_9163,5,Female,Small,Pending,2025-09-27,2025-12-10,Dog,Golden Retriever,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+0c87a92c-03d3-409e-b877-94cd86d06fc3,Pet_3472,6,Female,Small,Adopted,2025-09-09,,Dog,Cocker Spaniel,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+2cf6da96-8c12-46ff-b54e-864acc6b2f6c,Pet_6726,11,Female,Large,Adopted,2025-11-06,,Dog,Great Dane,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+fd925757-5869-4250-af00-66295dcfb1f0,Pet_1369,6,Male,Medium,Pending,2025-07-19,,Cat,Maine Coon,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+e3fe8853-29ca-40f0-b508-f81d90b4d3d8,Pet_9343,6,Female,Small,Pending,2025-07-24,2025-08-22,Cat,Oriental Shorthair,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+ec75b021-c087-47b5-a1c4-bbfebe34247e,Pet_7055,11,Female,Medium,Adopted,2025-08-15,2025-08-27,Cat,British Shorthair,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+d9d8641c-d9d6-49b9-84a0-a0ff7bc9bdd7,Pet_4340,9,Male,Medium,Adopted,2025-07-10,,Cat,British Shorthair,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+72d832fa-5955-4373-93e6-72a6ea2d6485,Pet_8052,1,Female,Small,Adopted,2025-11-13,2026-01-07,Dog,Yorkshire Terrier,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+2c88ca16-5ba1-4524-9d07-a78f837b9b6d,Pet_6856,11,Male,Small,Adopted,2025-10-13,2025-12-17,Cat,Himalayan,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+f9401f44-827c-4754-9caf-a05f5a65412d,Pet_9872,6,Female,Small,Available,2025-12-10,,Dog,Shih Tzu,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+6241133e-4227-448a-b611-174f6281d094,Pet_2791,7,Female,Large,Pending,2025-07-22,,Cat,Siamese,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+b75f9995-7877-4294-b73d-1f71690c3707,Pet_1051,8,Female,Large,Pending,2025-11-16,2025-11-19,Cat,Russian Blue,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+3e85ac92-4663-4bd8-abd1-d00bda02b595,Pet_4538,14,Female,Small,Pending,2025-09-02,2025-10-14,Cat,Bengal,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+1677e9ab-647c-42c5-a415-545c27a3e67e,Pet_3315,3,Male,Small,Pending,2025-08-11,,Dog,Beagle,Forever Homes,SomeCity,SomeState,2025-12-31
+c406af47-c0a6-4d75-a405-af65c2c7e14a,Pet_6996,8,Female,Small,Available,2025-08-17,2025-08-22,Dog,Chihuahua,Forever Homes,SomeCity,SomeState,2025-12-31
+b3d90993-3015-441e-8bb4-83f07705c426,Pet_5574,6,Female,Small,Adopted,2025-09-26,,Cat,Sphynx,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+5270874d-1e10-4c48-a498-05b2de8479a7,Pet_7297,6,Male,Medium,Available,2025-10-04,,Dog,Golden Retriever,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+2b32e279-8b17-4315-8312-46998fb60ffd,Pet_7150,14,Male,Medium,Pending,2025-07-06,,Dog,German Shepherd,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+b17aefd4-9cea-4b41-bd49-3b64f7bc44c7,Pet_9309,4,Female,Large,Available,2025-08-25,,Dog,German Shepherd,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+9273eb1d-9522-4d1a-8f4a-c029d38aad83,Pet_7776,0,Female,Medium,Available,2025-10-06,,Cat,Turkish Van,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+85d2521a-c426-4b18-8794-af1817f1d344,Pet_4982,8,Male,Medium,Pending,2025-09-29,2025-10-15,Cat,Scottish Fold,Forever Homes,SomeCity,SomeState,2025-12-31
+a4a0f944-289f-4df0-9e63-448299bbe52d,Pet_6651,9,Female,Small,Available,2025-10-03,,Dog,Bulldog,Forever Homes,SomeCity,SomeState,2025-12-31
+793104f6-e490-4795-aa90-f3d90f25e384,Pet_9080,9,Male,Small,Available,2025-08-14,2025-10-29,Dog,German Shepherd,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+f2ceb14e-8705-482c-b127-6c39ae734b4f,Pet_8820,15,Female,Small,Available,2025-12-24,2026-03-18,Cat,Norwegian Forest Cat,Forever Homes,SomeCity,SomeState,2025-12-31
+d17ad954-1952-4dc3-a7d6-aa96497dc570,Pet_9362,0,Female,Medium,Pending,2025-11-10,,Cat,Sphynx,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+f587e54b-e5f0-4db8-8c77-d72fc415664b,Pet_9548,6,Female,Small,Available,2025-10-12,,Cat,Siamese,Forever Homes,SomeCity,SomeState,2025-12-31
+ed53fa25-5761-4d83-bf8a-b1ebd5f91ecc,Pet_5512,1,Female,Large,Adopted,2025-07-12,,Cat,Sphynx,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+2a1021ab-0991-442b-8bd7-ea47f8b9a460,Pet_3028,14,Male,Large,Available,2025-08-19,,Cat,Persian,Forever Homes,SomeCity,SomeState,2025-12-31
+8293e762-14dd-4e42-993e-d2363dd12496,Pet_6176,6,Female,Small,Adopted,2025-07-28,2025-09-20,Cat,Siamese,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+26754b5d-895a-4309-b66b-895f9d2d6e4b,Pet_1125,1,Female,Medium,Available,2025-09-26,,Dog,Mastiff,Forever Homes,SomeCity,SomeState,2025-12-31
+aaec5bbb-d3b5-46a5-8149-d5d30331f9c9,Pet_7661,15,Male,Large,Pending,2025-09-07,,Dog,Yorkshire Terrier,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+23c896fc-ef85-4b59-abdc-ddd44eea3b5c,Pet_6517,11,Female,Medium,Pending,2025-10-10,2025-12-10,Dog,Yorkshire Terrier,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+5d500fcb-c037-4425-97e7-062a19545293,Pet_6850,0,Male,Medium,Available,2025-08-12,,Dog,Poodle,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+a5184200-7ba9-4def-9c49-2f2ace967996,Pet_7248,5,Male,Large,Available,2025-09-25,,Cat,Birman,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+2788bab8-3f38-4fe5-b8b5-fe5869686930,Pet_5121,12,Male,Small,Available,2025-08-05,2025-08-25,Cat,British Shorthair,Forever Homes,SomeCity,SomeState,2025-12-31
+90183d4c-f8df-4ed7-b017-aaf529f285ce,Pet_1657,0,Female,Small,Available,2025-09-05,2025-11-08,Cat,Ragdoll,Forever Homes,SomeCity,SomeState,2025-12-31
+d5ff1d56-2243-49ce-a154-0eedc1f51cdf,Pet_9186,8,Male,Small,Available,2025-11-12,2025-12-11,Dog,Cocker Spaniel,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+4c2630fa-7a27-41ac-9ad1-f2ff5750ccd8,Pet_8074,2,Male,Medium,Available,2025-10-09,,Cat,Norwegian Forest Cat,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+2ca2ccde-e11a-40b1-979b-d2aafb9beb40,Pet_3427,1,Female,Large,Available,2025-10-26,2026-01-12,Dog,Bulldog,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+28248580-0d6b-41b3-b7aa-765e72af6b3a,Pet_1149,5,Male,Medium,Available,2025-09-02,,Dog,German Shepherd,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+b7f0d295-3479-42e9-b78c-e48ff79e9edf,Pet_3890,2,Female,Small,Adopted,2025-09-29,2025-10-21,Dog,Australian Shepherd,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+2c09257f-815d-4a20-a669-54e2583373f8,Pet_7441,2,Female,Large,Pending,2025-12-15,,Cat,Birman,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+e4d97483-a453-4285-a94f-17cd3cbc17be,Pet_4772,0,Female,Small,Pending,2025-09-08,2025-11-05,Dog,Doberman,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+981815e9-35d3-4834-9fee-7c73cd32ebb8,Pet_2860,13,Male,Medium,Available,2025-09-22,,Dog,Labrador Retriever,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+a9eac4de-3dfd-4be1-bc12-d52b619807ea,Pet_5249,3,Male,Large,Available,2025-11-03,,Dog,Labrador Retriever,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+d179d69c-1c77-4c6a-924c-1a82d1669e3e,Pet_4767,8,Female,Large,Adopted,2025-12-09,,Dog,Great Dane,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+db87dfa2-095a-4e0c-9019-1c241f913d4f,Pet_5969,14,Female,Medium,Adopted,2025-12-24,,Dog,Cocker Spaniel,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+1fb30317-631a-415b-b19f-8a98a6816286,Pet_4744,8,Female,Small,Available,2025-08-23,2025-09-07,Cat,Scottish Fold,Forever Homes,SomeCity,SomeState,2025-12-31
+bb379c9b-237b-4cc3-8e8e-c4b40561b51a,Pet_5920,7,Female,Small,Adopted,2025-07-26,2025-08-14,Dog,Great Dane,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+7b74508d-0e21-47ab-b9ac-d4ebc63aed11,Pet_2301,4,Male,Medium,Available,2025-10-31,,Dog,Labrador Retriever,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+22082379-280b-411f-8577-b215524a7a45,Pet_2164,9,Female,Small,Available,2025-08-02,,Dog,Bulldog,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+8a555e0b-47ab-4a2a-8cd8-9f52565e5acf,Pet_1653,15,Male,Medium,Adopted,2025-12-15,,Dog,Shih Tzu,Forever Homes,SomeCity,SomeState,2025-12-31
+469b22c4-b764-4338-b0d4-407bd0e861b9,Pet_8602,5,Male,Small,Pending,2025-11-18,,Cat,Maine Coon,Forever Homes,SomeCity,SomeState,2025-12-31
+d066fd59-51fa-4733-b966-72fb587fbb38,Pet_1198,7,Female,Large,Adopted,2025-12-25,2026-03-06,Dog,Beagle,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+c7d3db6c-529c-4f38-9259-0e2b2c67b7d3,Pet_8967,14,Female,Small,Adopted,2025-08-26,2025-11-06,Dog,Australian Shepherd,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+6dd59098-98d1-4626-b622-45852488b3e0,Pet_2867,3,Male,Large,Pending,2025-08-02,,Cat,British Shorthair,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+72eba77e-fe18-4c47-a9d2-c5f1725e5b6b,Pet_5906,12,Male,Small,Available,2025-08-01,2025-09-11,Dog,Golden Retriever,Forever Homes,SomeCity,SomeState,2025-12-31
+8626a553-db14-49f5-b3be-8e5463e531e4,Pet_9985,2,Female,Small,Adopted,2025-07-22,,Dog,German Shepherd,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+e4107f5a-e94d-42ef-94f1-5e538f253836,Pet_9876,1,Female,Large,Pending,2025-11-15,2025-11-23,Cat,Bengal,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+a37dbfa3-727f-4563-9f1a-5c9c8caf1258,Pet_1622,2,Female,Large,Pending,2025-08-10,,Dog,Shih Tzu,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+c8d3138f-6537-4ab3-8703-00be32ed187b,Pet_3966,7,Female,Small,Adopted,2025-12-07,2026-01-15,Dog,Golden Retriever,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+16c39dc1-c53c-4c3c-893b-a63bcef72057,Pet_6934,11,Female,Medium,Pending,2025-10-12,2025-11-23,Cat,Himalayan,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+75564f0e-fdc5-47f3-9c37-612394867aac,Pet_7323,11,Male,Medium,Pending,2025-11-20,,Dog,Doberman,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+3b0521b4-4ecc-46ff-a416-327b84b4f2a3,Pet_4544,15,Male,Large,Pending,2025-11-29,,Dog,Bulldog,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+0136eff9-bbf7-4eea-9764-286270ddc9bb,Pet_5020,1,Male,Large,Pending,2025-10-02,,Dog,Shih Tzu,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+981e8ab4-29b0-4eb1-9ca9-028aa2ce82e9,Pet_7208,15,Female,Small,Pending,2025-10-13,,Dog,Labrador Retriever,Forever Homes,SomeCity,SomeState,2025-12-31
+b26cf0a4-00b2-4a0b-8a87-686f77c99435,Pet_1732,15,Female,Medium,Pending,2025-07-25,,Dog,Poodle,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+bea503bd-9632-4e8f-abf3-ae62d658ddc5,Pet_7002,0,Female,Large,Available,2025-10-06,,Cat,Maine Coon,Forever Homes,SomeCity,SomeState,2025-12-31
+952c8874-05f8-4960-be8e-b60c58b7b676,Pet_9122,11,Female,Medium,Pending,2025-08-02,,Cat,Persian,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+478f3d2e-6946-4d95-9368-3e5e3c471eed,Pet_4618,14,Male,Medium,Available,2025-09-21,2025-10-25,Dog,Beagle,Forever Homes,SomeCity,SomeState,2025-12-31
+d9cadcee-b1ca-4c35-ad8e-4effba510df9,Pet_7231,2,Male,Medium,Pending,2025-12-18,,Cat,Ragdoll,Forever Homes,SomeCity,SomeState,2025-12-31
+905da290-7f31-4389-a83d-758b02c05126,Pet_7349,2,Female,Medium,Pending,2025-12-10,,Dog,Bulldog,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+bd1e145a-d8f9-459e-a238-c35a92e563d1,Pet_8329,9,Female,Large,Available,2025-11-14,,Cat,Norwegian Forest Cat,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+e31606fa-1dee-4689-a321-027f28ebf80b,Pet_8081,3,Male,Medium,Pending,2025-08-02,,Dog,Siberian Husky,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+8d21be78-c117-4041-ba70-cdc360a36191,Pet_3594,15,Male,Small,Adopted,2025-08-31,2025-11-14,Dog,Dachshund,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+4767550d-430c-43c0-aecd-74a67ff9dd6a,Pet_5037,15,Female,Large,Pending,2025-12-03,,Dog,Great Dane,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+262d9804-4fdc-4f61-82a0-928967e0d5a7,Pet_9716,11,Female,Small,Adopted,2025-09-26,,Dog,German Shepherd,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+f10655cf-a7e7-49b6-878a-4a701954940e,Pet_1806,9,Female,Large,Pending,2025-09-07,,Cat,Siamese,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+cf1396de-1e79-475f-a3a8-131beed6300b,Pet_9940,2,Female,Medium,Pending,2025-08-12,,Dog,Rottweiler,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+910933b5-80ae-4ba4-82ad-27d42bef82e1,Pet_7412,1,Female,Medium,Adopted,2025-10-20,2025-11-29,Cat,Persian,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+78c1109f-8016-42ba-a06d-3fae2c272570,Pet_1518,14,Female,Medium,Pending,2025-10-02,2025-10-23,Cat,Norwegian Forest Cat,Forever Homes,SomeCity,SomeState,2025-12-31
+32f0f83a-9cc7-4560-ac1c-aacaef879de6,Pet_5411,15,Female,Medium,Pending,2025-08-18,,Dog,Poodle,Forever Homes,SomeCity,SomeState,2025-12-31
+aef847d8-12d1-4603-9421-06c8b1efb127,Pet_3905,0,Male,Medium,Pending,2025-12-13,,Cat,Birman,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+c6e5ee65-3d68-4acc-8258-fe19adcdcbd9,Pet_9435,2,Male,Large,Adopted,2025-08-11,,Dog,Pomeranian,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+3eef31f1-612c-42d9-9c06-62030d16dd18,Pet_5080,15,Female,Medium,Pending,2025-07-07,,Dog,Beagle,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+8f6870e7-2885-4f38-9416-e216011eac42,Pet_9160,3,Male,Large,Available,2025-09-29,,Cat,Norwegian Forest Cat,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+92ae1f32-9940-473b-a251-23bf354f1308,Pet_5815,9,Male,Large,Adopted,2025-07-14,,Cat,Himalayan,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+0e38f010-0002-4074-b3bc-cb78f11a2fc0,Pet_2338,7,Female,Medium,Pending,2025-07-15,2025-09-08,Dog,Border Collie,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+2b4c70d8-1c73-4aa1-8056-afb00ab2f9e3,Pet_9807,2,Male,Medium,Pending,2025-12-06,,Dog,Dachshund,Forever Homes,SomeCity,SomeState,2025-12-31
+c93f038b-16cc-41fb-b316-d0478939eb6b,Pet_1827,13,Male,Large,Adopted,2025-08-31,,Dog,Australian Shepherd,Forever Homes,SomeCity,SomeState,2025-12-31
+077475d0-5b7d-4f0a-ab77-02a55eb03a97,Pet_9870,13,Female,Small,Pending,2025-12-27,,Cat,Bengal,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+44e3a0ef-7735-44e2-990c-23b126cd4f38,Pet_1599,7,Male,Small,Available,2025-08-25,2025-09-21,Dog,Boxer,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+88a1cadd-185d-49b2-b702-b1327eb76e58,Pet_6018,5,Male,Large,Available,2025-07-05,2025-08-12,Dog,Shih Tzu,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+aa600069-16ae-498e-a91f-fa70e6ff2419,Pet_4506,2,Male,Small,Adopted,2025-09-06,,Cat,Ragdoll,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+6aafaab1-ba31-40e7-b360-ffa1930808ee,Pet_8519,6,Male,Small,Adopted,2025-10-21,,Cat,Abyssinian,Forever Homes,SomeCity,SomeState,2025-12-31
+a737fc1e-7941-4ee7-a3ad-e1fc359d8aa5,Pet_8960,15,Male,Large,Available,2025-11-08,,Dog,Mastiff,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+39399abe-6275-4f91-8031-416e3b5143fd,Pet_5265,13,Male,Medium,Pending,2025-12-25,2026-03-04,Cat,Devon Rex,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+48a582eb-bc93-495c-98ef-cb78ad637b1e,Pet_8218,0,Female,Small,Adopted,2025-09-26,,Cat,Maine Coon,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+63f4b0c6-6dad-4af4-9240-eb8a03033011,Pet_2843,1,Male,Medium,Available,2025-10-04,,Cat,Russian Blue,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+8b93f7a2-5d20-425b-99f5-f41da40c86c0,Pet_5551,1,Male,Small,Pending,2025-07-14,,Cat,Ragdoll,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+e0d1b53b-bb63-4684-bdca-2e4c5ab999ef,Pet_3185,11,Male,Large,Available,2025-12-05,,Dog,Poodle,Forever Homes,SomeCity,SomeState,2025-12-31
+f5d8865e-1220-4586-a069-fc5d1e2f8c79,Pet_9880,5,Female,Small,Pending,2025-07-16,,Cat,British Shorthair,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+363c2485-c14d-457c-9f35-37b7d9c8d942,Pet_6066,10,Female,Medium,Adopted,2025-08-08,2025-08-30,Cat,Norwegian Forest Cat,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+5c7ab03c-ef3f-4599-b2f8-b67c758a2a65,Pet_6773,14,Male,Large,Pending,2025-09-10,,Cat,Birman,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+12ed3da1-5339-43c1-8640-105ba9825450,Pet_7154,10,Female,Large,Adopted,2025-07-18,2025-07-26,Dog,Pomeranian,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+45514c59-84e2-41b2-98d6-feafd6f3e44f,Pet_8496,8,Male,Large,Adopted,2025-12-19,,Cat,Abyssinian,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+b6db38d7-b5c3-4579-a19d-406dd416fdbd,Pet_5390,6,Male,Large,Pending,2025-09-03,,Dog,Australian Shepherd,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+39edee6e-b4b9-4a3c-bb14-e506e0a92a86,Pet_4373,3,Male,Small,Pending,2025-09-09,2025-10-09,Cat,Turkish Van,Forever Homes,SomeCity,SomeState,2025-12-31
+15a626e5-a37c-42fb-8dde-3f768c60a873,Pet_6536,5,Female,Large,Available,2025-11-26,,Cat,Ragdoll,Forever Homes,SomeCity,SomeState,2025-12-31
+bff36b01-5aab-48eb-9d70-29b4fc25347b,Pet_9496,11,Female,Large,Pending,2025-09-14,2025-11-11,Cat,Bengal,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+54ecc319-dae8-4302-8c6e-45621add32bf,Pet_4885,14,Female,Medium,Pending,2025-08-25,,Cat,Abyssinian,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+1d1edb53-5ce5-4a35-a06a-ed32200e61d9,Pet_3985,14,Male,Medium,Pending,2025-12-22,,Cat,British Shorthair,Forever Homes,SomeCity,SomeState,2025-12-31
+60b3efe9-c7b7-4948-a2a3-fad6e9b4d3c2,Pet_5020,15,Female,Medium,Adopted,2025-10-11,,Dog,Australian Shepherd,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+66f3913b-3160-4770-bb80-37d7a31be390,Pet_9046,6,Male,Large,Available,2025-09-26,,Dog,Great Dane,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+fd34fe41-5a08-4f98-b727-69364fda5c55,Pet_3649,9,Male,Medium,Adopted,2025-08-13,,Dog,Dachshund,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+a1a41b7a-e700-47b5-8d32-0c43f6a174cd,Pet_1181,12,Male,Small,Adopted,2025-07-09,2025-08-06,Dog,Chihuahua,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+262d8d89-0d06-4519-95ed-65f8eb3438d2,Pet_7653,3,Female,Medium,Adopted,2025-08-07,,Dog,Rottweiler,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+29e771f0-0618-4c45-9aec-eaeefcdcfa7a,Pet_5306,3,Male,Medium,Pending,2025-07-04,,Cat,Bengal,Forever Homes,SomeCity,SomeState,2025-12-31
+58a6b391-11a8-4a04-950c-1932c6334630,Pet_5265,8,Male,Small,Pending,2025-12-22,,Cat,Birman,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+218c0745-2e8d-461e-b599-a1dfe22fb18d,Pet_2832,10,Female,Small,Pending,2025-11-14,,Cat,Russian Blue,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+f8f1df25-c1ae-457c-af55-62c2ece85f2b,Pet_7506,10,Female,Small,Adopted,2025-08-06,2025-08-23,Dog,Dachshund,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+e0fdfe5a-bfb4-4b7c-b3b6-a8c0d3d264ac,Pet_1856,3,Female,Small,Available,2025-10-05,,Dog,Border Collie,Forever Homes,SomeCity,SomeState,2025-12-31
+310cd282-c9ca-4f58-9480-ffe6dc9fa886,Pet_6891,11,Female,Large,Pending,2025-10-28,,Cat,Bengal,Forever Homes,SomeCity,SomeState,2025-12-31
+25c7257c-678f-4e98-958f-2b2f552caf53,Pet_4507,9,Male,Large,Pending,2025-11-22,,Dog,Poodle,Forever Homes,SomeCity,SomeState,2025-12-31
+3cd8b643-b1b6-4c58-8d54-0bb7d4cfcee7,Pet_4597,0,Male,Small,Adopted,2025-12-21,,Dog,Beagle,Forever Homes,SomeCity,SomeState,2025-12-31
+dc5faef8-a162-4e35-8972-f96307f33762,Pet_2213,11,Female,Large,Pending,2025-11-30,,Cat,Oriental Shorthair,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+c7ac93ac-5676-4cff-8a7d-6e7d072dfead,Pet_4718,11,Female,Small,Pending,2025-12-10,,Cat,British Shorthair,Forever Homes,SomeCity,SomeState,2025-12-31
+d66eb167-46e0-4dc1-9d36-70b0d6d8982a,Pet_4337,2,Male,Small,Available,2025-10-06,,Cat,Scottish Fold,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+a547843c-1269-4bed-984a-29be2a166e82,Pet_1294,10,Female,Small,Adopted,2025-11-14,2026-02-05,Dog,Yorkshire Terrier,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+8d7d410a-ea8c-49f6-a00b-9a1cfcdc8beb,Pet_3082,6,Male,Medium,Available,2025-08-31,2025-10-23,Dog,Cocker Spaniel,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+1ec66379-5b6b-468e-b065-cff07d7f9aa4,Pet_8754,12,Female,Small,Pending,2025-09-07,,Dog,Pomeranian,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+cd4fd8f4-c1d0-451a-9b40-af19213f6e1f,Pet_6691,9,Male,Medium,Pending,2025-10-02,,Dog,Beagle,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+edc4e1fc-6038-414a-b068-68d98bb79922,Pet_4126,11,Female,Medium,Pending,2025-10-25,,Cat,Oriental Shorthair,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+665217ba-5d8c-4890-ae8f-bf2626d6fe9e,Pet_9210,10,Male,Large,Adopted,2025-12-09,,Cat,Bengal,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+be010084-0f72-4677-aced-a9ebbf9b7cd5,Pet_4780,0,Female,Medium,Pending,2025-09-03,,Cat,Oriental Shorthair,Forever Homes,SomeCity,SomeState,2025-12-31
+db827cd0-553b-47ee-9356-0c4b0ecef180,Pet_3765,4,Female,Medium,Adopted,2025-12-16,2026-02-01,Dog,Border Collie,Forever Homes,SomeCity,SomeState,2025-12-31
+6263180d-1438-4abe-8c1a-598fd22a9f94,Pet_6413,0,Female,Medium,Available,2025-12-06,2025-12-18,Cat,Persian,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+052f552b-0193-4bf5-b8e3-ce366e6c9766,Pet_1181,8,Female,Small,Pending,2025-08-17,,Cat,Russian Blue,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+83dd3443-f5e2-4075-910d-748938db737a,Pet_4134,9,Female,Small,Adopted,2025-08-05,2025-09-27,Dog,Chihuahua,Forever Homes,SomeCity,SomeState,2025-12-31
+4b51ef6f-2f0d-4e15-bad0-e046f0121df4,Pet_8465,15,Male,Small,Pending,2025-07-23,2025-08-28,Cat,Persian,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+ae0081eb-d056-4521-81b8-e6307d6cb627,Pet_5264,7,Male,Large,Available,2025-08-27,,Dog,German Shepherd,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+b47c93e1-fa6d-4883-8bf2-b99158f0766d,Pet_3917,11,Female,Large,Available,2025-11-09,,Dog,Shih Tzu,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+fc810b23-b675-43db-9b4a-1c3792da58b9,Pet_7972,12,Male,Medium,Adopted,2025-08-26,,Cat,Ragdoll,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+db8cce8e-ab89-4063-98ac-d1315665639c,Pet_6571,9,Female,Small,Pending,2025-12-20,2026-03-15,Dog,Golden Retriever,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+7ded6c34-5926-4da7-85df-756da076b038,Pet_1929,1,Female,Medium,Adopted,2025-09-21,2025-12-18,Dog,Labrador Retriever,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+1065fdd3-4370-4aea-a699-85c5eb96239c,Pet_8144,3,Male,Small,Pending,2025-12-21,,Dog,Doberman,Forever Homes,SomeCity,SomeState,2025-12-31
+ecede370-7148-4d2a-90ff-a947225f3ffc,Pet_8546,12,Male,Medium,Available,2025-11-05,,Dog,Shih Tzu,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+f0156786-28de-4a93-9eba-6f040b222759,Pet_9947,14,Female,Medium,Pending,2025-09-30,,Cat,Ragdoll,Forever Homes,SomeCity,SomeState,2025-12-31
+807476af-6894-4407-b46f-bda5a8172987,Pet_5919,2,Female,Large,Adopted,2025-09-19,2025-11-10,Dog,Labrador Retriever,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+8216b13b-26bd-4287-ba1e-bb126fc22b9c,Pet_8560,7,Male,Small,Pending,2025-08-10,,Cat,Persian,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+fcc8dbc5-e80f-4e7b-8c7b-dad7f53c84b5,Pet_2064,8,Female,Medium,Adopted,2025-11-30,,Dog,German Shepherd,Forever Homes,SomeCity,SomeState,2025-12-31
+2f004cad-855b-470e-861c-93a5c6aa753f,Pet_8651,8,Female,Medium,Available,2025-11-16,,Cat,Scottish Fold,Forever Homes,SomeCity,SomeState,2025-12-31
+833969ff-de62-4abd-b490-e8a5f5d3a9d3,Pet_5884,1,Female,Medium,Adopted,2025-10-01,2025-12-06,Cat,Birman,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+eb073709-70af-42e6-8887-ab784389d66d,Pet_6315,10,Female,Medium,Pending,2025-08-17,,Cat,Sphynx,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+8f3a7746-91a3-4067-bb45-f169ff8aa24c,Pet_3311,14,Female,Medium,Pending,2025-12-05,2025-12-13,Cat,Ragdoll,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+1fe53c40-edea-4adf-8db3-28ac83d76699,Pet_1270,8,Male,Medium,Available,2025-12-23,2026-02-02,Dog,Mastiff,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+a8a377a9-b3f1-45c5-ad32-52220210e1b5,Pet_6417,0,Female,Small,Available,2025-08-22,,Dog,Shih Tzu,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+3adafd4b-fc7b-4bec-89f9-556a5e8f4adc,Pet_4478,11,Female,Large,Available,2025-08-03,,Dog,Beagle,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+97274bad-8cd0-44d6-8981-28d50737ba7f,Pet_3253,9,Female,Medium,Adopted,2025-09-14,2025-09-20,Dog,Chihuahua,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+06f0ff88-ebfd-4f1a-bb26-7c652a04eb6c,Pet_2306,5,Male,Large,Available,2025-07-17,,Dog,Pomeranian,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+71924808-df8f-47ae-8f1e-f84807a3061b,Pet_3297,8,Male,Small,Available,2025-10-07,2025-11-08,Dog,Border Collie,Forever Homes,SomeCity,SomeState,2025-12-31
+c61777f8-2b33-4fee-a2d7-d2019b5ca3c4,Pet_1441,11,Female,Small,Available,2025-12-14,2026-01-20,Dog,Pomeranian,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+80eb4664-88cf-4e7d-98e7-570646d3451c,Pet_8397,4,Female,Small,Pending,2025-10-01,2025-12-11,Dog,Beagle,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+faabe06d-03e3-4f89-98fe-84e506cf6e46,Pet_3489,0,Male,Medium,Available,2025-12-06,,Cat,Birman,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+d9a85729-32db-425f-9fd2-bde1aa2f653b,Pet_2027,9,Female,Medium,Pending,2025-08-31,,Cat,Birman,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+0bafdca0-35bf-4dcb-8a06-b66982178833,Pet_6674,11,Female,Medium,Pending,2025-08-16,2025-09-04,Dog,German Shepherd,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+095c7b56-aae7-48bd-b37d-f3dc745637ce,Pet_1902,5,Female,Large,Available,2025-07-10,,Cat,Birman,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+baa1ea37-33fa-404d-9c9a-af5be458e6bb,Pet_2105,6,Male,Large,Pending,2025-08-16,2025-08-31,Cat,Norwegian Forest Cat,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+996634f0-9b96-4e83-ac83-cd464490a4d1,Pet_2193,11,Female,Small,Adopted,2025-10-02,,Dog,Chihuahua,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+9f3172ae-5fdd-4ab8-8e60-c15477a1ef9a,Pet_7588,3,Female,Medium,Adopted,2025-09-30,,Cat,Turkish Van,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+4b065beb-c538-41f2-876b-f2a473cdbecb,Pet_7121,3,Male,Small,Available,2025-08-17,,Cat,Bengal,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+f503a979-d05a-491a-9589-ebb10ca74d60,Pet_5242,13,Female,Medium,Available,2025-10-15,,Cat,Birman,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+6a917dbb-de30-4113-ae36-6d474dfbb377,Pet_5453,0,Female,Small,Adopted,2025-09-16,,Cat,Siamese,Forever Homes,SomeCity,SomeState,2025-12-31
+05c0c578-acbe-4cbb-99a3-7911dc665bbb,Pet_9252,4,Male,Medium,Pending,2025-10-16,,Dog,Australian Shepherd,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+a7c22c3a-5ed5-4263-8bb2-aabc05de9fe3,Pet_7741,14,Female,Large,Available,2025-09-09,,Cat,Sphynx,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+c6be1d0b-752b-469e-96e4-d1082106cbd5,Pet_6394,2,Female,Small,Available,2025-08-09,2025-09-08,Dog,Yorkshire Terrier,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+10f16434-14d1-4ab3-a347-a925e900d392,Pet_7330,14,Male,Large,Pending,2025-10-07,,Cat,Ragdoll,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+e6949e4f-85ba-41b0-9b54-966164b61bf3,Pet_7742,10,Male,Small,Available,2025-09-10,,Cat,Scottish Fold,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+5aff3fc1-3422-42ff-a744-472fedc95881,Pet_3040,5,Female,Medium,Adopted,2025-10-08,,Cat,Birman,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+474b92f2-1087-4502-8f50-6b14e50dd747,Pet_6767,12,Female,Medium,Available,2025-12-28,,Cat,Russian Blue,Forever Homes,SomeCity,SomeState,2025-12-31
+638d0c2e-a09f-49d9-9cc2-c845fd8561ad,Pet_5469,9,Female,Medium,Pending,2025-08-25,,Cat,Maine Coon,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+b06754e8-e22d-491f-9d94-15edfd0adf41,Pet_4174,0,Male,Small,Available,2025-11-29,,Cat,Maine Coon,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+9ea723f1-1ea2-44b8-bb5e-996b92057bab,Pet_8809,2,Male,Small,Pending,2025-07-24,,Dog,Chihuahua,Forever Homes,SomeCity,SomeState,2025-12-31
+c772faeb-f08e-44af-8ddf-b9401839bbab,Pet_1020,12,Male,Large,Available,2025-12-30,2026-03-01,Dog,Golden Retriever,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+43809133-b67f-427e-8c8a-384a5d9eb234,Pet_7235,7,Female,Medium,Adopted,2025-08-31,,Dog,Cocker Spaniel,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+e2ea7ad1-9a29-4bed-bec0-b3fdcbdaa699,Pet_4841,14,Male,Large,Adopted,2025-07-05,2025-07-18,Cat,Turkish Van,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+6ccdcca4-76c0-40bf-9e0c-3dc5360aa433,Pet_5232,14,Female,Small,Available,2025-09-04,,Dog,Boxer,Forever Homes,SomeCity,SomeState,2025-12-31
+57ebb828-1c80-4626-a648-7695d9267d16,Pet_8377,14,Female,Medium,Adopted,2025-12-18,2025-12-28,Cat,Himalayan,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+aa1e0074-a8c0-442a-aa3b-41a0bd1386cb,Pet_5282,8,Male,Medium,Adopted,2025-07-29,2025-08-01,Cat,Siamese,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+df496012-51aa-4b1a-afd1-bc184881dcde,Pet_8365,4,Male,Medium,Pending,2025-07-07,,Dog,Siberian Husky,Forever Homes,SomeCity,SomeState,2025-12-31
+1a8c47a8-7143-4067-a328-72ea5a5d6ed5,Pet_2675,9,Female,Medium,Available,2025-12-24,2026-01-08,Dog,Australian Shepherd,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+d5954ff5-7b4f-4c27-b74f-e958811922d0,Pet_4878,2,Female,Medium,Adopted,2025-12-28,,Dog,Bulldog,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+76a47d2c-3c72-406b-851f-b3833f842a94,Pet_4319,13,Male,Small,Available,2025-11-18,,Cat,Birman,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+8e32938a-9c05-4348-bff7-421037e6fd48,Pet_2070,8,Male,Small,Pending,2025-12-27,,Cat,Oriental Shorthair,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+595e49d8-fc58-4a56-b880-330305aad786,Pet_9274,4,Female,Large,Pending,2025-07-17,2025-08-02,Cat,Turkish Van,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+aff87c03-3ea5-4d42-8da6-40d39ec0356c,Pet_1246,5,Female,Large,Available,2025-12-08,,Dog,Dachshund,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+62ec2907-f344-4a5c-b214-ceeab6ede14a,Pet_1864,0,Male,Large,Pending,2025-10-23,,Cat,Scottish Fold,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+bcd22f5f-9540-45ed-b5b9-05b3eba497e0,Pet_2572,10,Male,Small,Adopted,2025-08-27,,Cat,Devon Rex,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+8c473abe-a557-4cb3-b815-509f644cc9c6,Pet_6482,14,Male,Medium,Available,2025-10-18,,Dog,Great Dane,Forever Homes,SomeCity,SomeState,2025-12-31
+e42b0474-b9f7-4a7e-a19f-eaa3361e08e9,Pet_2961,14,Male,Medium,Available,2025-07-13,,Cat,Abyssinian,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+3d0f252c-92d9-40e4-b233-ed19680b2f1e,Pet_1293,9,Male,Medium,Adopted,2025-11-03,,Cat,Ragdoll,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+b8bf923e-83ef-4ce1-a6b9-d1262c84241e,Pet_3119,5,Male,Small,Pending,2025-08-04,2025-08-24,Cat,Scottish Fold,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+7c86fc4f-d66a-4d65-8975-7f6dcf1c9796,Pet_6120,15,Female,Medium,Available,2025-11-05,2026-01-01,Dog,Dachshund,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+8fa4d6d1-7146-4949-a479-c24279a98423,Pet_5909,9,Female,Medium,Available,2025-09-30,,Cat,Maine Coon,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+c8f6a90f-1235-4696-a4ee-78dfb1463929,Pet_4394,9,Female,Small,Available,2025-07-07,2025-08-20,Dog,Beagle,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+cb00e96b-c814-4664-9171-045898b948a7,Pet_3635,7,Female,Medium,Pending,2025-08-05,,Dog,Mastiff,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+7100202e-407b-4770-8a30-81254745acce,Pet_3683,11,Female,Medium,Pending,2025-12-21,,Cat,Norwegian Forest Cat,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+a6d1aeb0-2af6-4aa0-aa80-1c25e7a79999,Pet_5829,15,Female,Large,Pending,2025-11-02,,Dog,Shih Tzu,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+0f19c0f5-0526-4f10-9daf-85bd5edc3748,Pet_5305,15,Female,Medium,Available,2025-09-07,2025-09-14,Dog,Pomeranian,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+4bb6fa0a-16c9-4c9c-9610-5d3d08659bd5,Pet_6052,8,Female,Small,Adopted,2025-09-06,2025-10-09,Dog,Beagle,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+9765af0c-e8cb-400c-87d8-1a07fa8cd1fb,Pet_9414,10,Female,Large,Available,2025-12-06,,Dog,Shih Tzu,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+f890a5f0-12ba-4316-add8-ab18212f9f1d,Pet_8921,9,Male,Small,Available,2025-10-09,2025-10-19,Dog,Chihuahua,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+0a528423-169e-446b-ad5b-77f15eee770e,Pet_1028,14,Female,Small,Adopted,2025-11-03,,Cat,Siamese,Forever Homes,SomeCity,SomeState,2025-12-31
+5ee68a0a-c4f7-4c41-ab17-44941893cf3f,Pet_6415,12,Female,Large,Available,2025-10-29,,Cat,Scottish Fold,Forever Homes,SomeCity,SomeState,2025-12-31
+3760ce16-bc2c-48d7-b796-d21e3dca16f5,Pet_4325,8,Male,Small,Adopted,2025-10-04,,Cat,Sphynx,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+ef5f3ddb-c09a-4cd8-a091-93d92d20e3c3,Pet_9080,4,Female,Small,Adopted,2025-12-17,,Cat,Oriental Shorthair,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+9d55c747-17a6-4b4c-a7fa-68b49a3d8207,Pet_3097,0,Female,Small,Available,2025-12-22,,Cat,Oriental Shorthair,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+56dadd71-99db-4138-8391-7fdadfdb208d,Pet_8825,9,Male,Medium,Adopted,2025-11-25,,Dog,Poodle,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+f63ff808-20a5-4604-a73a-171d8d5035cb,Pet_4021,14,Male,Medium,Pending,2025-07-13,2025-09-24,Cat,Devon Rex,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+e28e4300-ea5b-47d3-a6bc-80ab6981b294,Pet_4519,12,Male,Medium,Pending,2025-10-07,,Cat,Bengal,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+c8bd2f61-3508-4674-9222-20332adc597f,Pet_7397,5,Female,Small,Adopted,2025-10-17,2026-01-08,Dog,Beagle,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+97d20ff9-1f0c-42f6-8b0c-5f50ac097e3d,Pet_2537,2,Male,Large,Adopted,2025-08-13,,Cat,British Shorthair,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+513eb92c-e2b7-4daa-a3e9-80d8d4c213db,Pet_2488,4,Male,Small,Pending,2025-10-12,,Cat,Bengal,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+8254a419-ab79-49cf-9f2e-dec2ca449986,Pet_6406,4,Male,Large,Adopted,2025-08-06,,Dog,Golden Retriever,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+f3705d96-962b-4070-9cfc-002f9e5900db,Pet_4886,9,Male,Medium,Pending,2025-07-21,2025-07-27,Dog,German Shepherd,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+b51918a5-e8fe-469c-badc-5091df90f0b3,Pet_9872,3,Male,Medium,Pending,2025-09-16,2025-12-13,Dog,Chihuahua,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+228d2539-671d-4341-954c-c16192a8cea8,Pet_1618,7,Male,Medium,Available,2025-12-24,2026-03-05,Dog,Pomeranian,Forever Homes,SomeCity,SomeState,2025-12-31
+a7f9e957-1557-480a-abb4-3a140cd81a5c,Pet_9350,5,Female,Large,Adopted,2025-10-26,,Cat,Himalayan,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+d87f1999-d342-4149-a5ce-fb5764c66b60,Pet_8794,6,Female,Large,Adopted,2025-12-09,2026-01-17,Dog,Dachshund,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+2b0ed11b-db6a-4330-a298-520da69e8c8c,Pet_1625,2,Female,Medium,Available,2025-07-05,,Cat,Persian,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+8ef474ed-d9a0-4357-9c69-14531085e719,Pet_6632,3,Male,Medium,Available,2025-07-22,,Dog,Golden Retriever,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+c9a7bba4-01fa-497a-ade6-bd3be40f72e1,Pet_8792,13,Female,Medium,Adopted,2025-10-21,,Cat,Norwegian Forest Cat,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+58a4eb11-b5b7-4220-9d13-e4e2552b738e,Pet_7343,12,Female,Medium,Adopted,2025-12-23,2026-03-07,Cat,Oriental Shorthair,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+cfa8dca2-67c0-4fd4-afb5-dbdc75fcd5ac,Pet_5903,11,Male,Medium,Available,2025-08-24,2025-10-24,Dog,Mastiff,Forever Homes,SomeCity,SomeState,2025-12-31
+a2b75ef8-c4e3-4333-b0da-23ce2fd91161,Pet_4539,5,Female,Small,Adopted,2025-10-27,2026-01-07,Cat,Devon Rex,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+12cfe51c-9036-411f-af87-2f591fcd44ea,Pet_1917,13,Female,Medium,Pending,2025-08-07,,Dog,Pomeranian,Forever Homes,SomeCity,SomeState,2025-12-31
+e05f6286-ac20-4614-9605-faf34fcb98fb,Pet_9224,1,Male,Medium,Adopted,2025-07-29,,Dog,Boxer,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+dfd8637c-c731-4900-8bb2-3f77f002037c,Pet_8205,4,Male,Medium,Available,2025-07-29,,Cat,Norwegian Forest Cat,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+41aecda9-3cd5-43ef-b92e-6b3e38412259,Pet_3963,8,Female,Small,Pending,2025-10-16,,Cat,Devon Rex,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+3a278190-4f81-4f2b-8615-fc47a6dc15c2,Pet_3488,2,Male,Large,Adopted,2025-11-16,,Cat,Persian,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+c78a1f38-fc14-40f5-bccc-a2d0fbbc128d,Pet_8745,1,Male,Medium,Adopted,2025-07-20,2025-08-15,Cat,Devon Rex,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+a01c200c-a00b-47fb-9105-1dce4446710d,Pet_5243,2,Male,Large,Adopted,2025-08-27,,Dog,Pomeranian,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+3bc41b66-a429-4982-9f20-9a37865ac06e,Pet_9415,14,Male,Medium,Available,2025-07-19,,Dog,Labrador Retriever,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+c833882c-858f-4b5a-9bb4-259aec2b0e43,Pet_8781,4,Male,Small,Pending,2025-12-28,,Cat,Turkish Van,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+70e6d799-960a-4a9e-bf63-5a527359fa41,Pet_4584,11,Female,Large,Available,2025-07-27,,Dog,Rottweiler,Forever Homes,SomeCity,SomeState,2025-12-31
+d3c81f4c-b147-4bae-9a8e-f36220983f3d,Pet_6266,2,Female,Small,Adopted,2025-09-18,,Dog,Great Dane,Forever Homes,SomeCity,SomeState,2025-12-31
+78d23f7e-208b-4c37-84eb-be6cc87b35fd,Pet_6579,7,Female,Small,Available,2025-08-09,,Dog,Labrador Retriever,Forever Homes,SomeCity,SomeState,2025-12-31
+d7fcdffa-184e-4055-8d43-b0e2958a6029,Pet_4382,0,Male,Small,Pending,2025-07-19,,Cat,Persian,Forever Homes,SomeCity,SomeState,2025-12-31
+ba807431-2be2-4b58-a3a0-04a7ced8e1d0,Pet_1229,11,Male,Medium,Pending,2025-09-25,2025-10-08,Dog,Dachshund,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+5644fc09-0ea0-4d9f-b36b-3ce10c0352bd,Pet_7244,5,Female,Medium,Pending,2025-08-02,2025-09-19,Dog,Beagle,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+a99c3095-b499-4562-a436-9d857e3835e0,Pet_5468,4,Male,Medium,Pending,2025-12-31,,Cat,Scottish Fold,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+b1fe08be-1d06-4484-aab8-082e9c733b9d,Pet_4996,4,Female,Small,Pending,2025-08-16,,Dog,Beagle,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+e1a7fe15-adc7-4463-a14b-7d5c69b56f81,Pet_9598,8,Male,Medium,Available,2025-07-11,,Dog,Mastiff,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+d4e4e49d-daf9-4d8b-9596-5fe7732ef840,Pet_6587,3,Male,Small,Available,2025-11-22,2026-02-13,Dog,Great Dane,Forever Homes,SomeCity,SomeState,2025-12-31
+a6fc0dfa-315c-4a3e-941a-4090bd22408c,Pet_3729,1,Male,Medium,Adopted,2025-07-09,,Cat,Norwegian Forest Cat,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+01493532-dc86-4fa1-adca-12bb1b5703bc,Pet_6487,0,Female,Large,Available,2025-08-20,2025-11-10,Cat,Himalayan,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+e7a21b49-0f70-42cc-b03e-697dabd8069a,Pet_4535,1,Female,Large,Available,2025-09-16,,Dog,Golden Retriever,Forever Homes,SomeCity,SomeState,2025-12-31
+b3b26b0d-785f-4de0-87f5-29203069690b,Pet_9947,2,Male,Small,Adopted,2025-09-19,2025-10-02,Cat,Bengal,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+8f0953e5-0671-466b-b13e-4e9c78088410,Pet_4680,9,Female,Large,Adopted,2025-09-21,,Dog,Pomeranian,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+80294e86-61be-42d4-b454-1d8680c0df3d,Pet_1801,15,Male,Small,Available,2025-07-15,2025-08-04,Dog,Labrador Retriever,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+aaef7157-89fc-40cb-9e14-75de2886469b,Pet_9086,3,Female,Small,Available,2025-09-18,,Cat,Devon Rex,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+741711c3-cdea-454a-93e9-5a165a6c2f55,Pet_5414,1,Male,Large,Adopted,2025-11-18,,Dog,Poodle,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+1cbcbdd8-7f12-4771-94d3-d42d22e15768,Pet_1265,5,Male,Small,Pending,2025-10-02,,Dog,Shih Tzu,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+e8c3d0ce-5e91-444b-88e8-7d2448ec245d,Pet_8730,15,Female,Large,Available,2025-10-05,2025-11-02,Dog,Pomeranian,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+6b41e9be-6463-4658-beeb-4d504f4f259a,Pet_8562,11,Male,Medium,Adopted,2025-10-01,,Cat,Russian Blue,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+e2a7321e-a0ad-4b82-a833-7a3ca467c497,Pet_5515,10,Female,Medium,Available,2025-11-26,,Cat,Bengal,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+c9d10c8c-8c9a-4b78-9697-7bc8eee28e8a,Pet_3193,4,Male,Small,Adopted,2025-07-19,,Dog,Chihuahua,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+8ab0c3bb-aa87-4b01-b600-9cca8f490159,Pet_9355,0,Male,Large,Pending,2025-12-29,2026-02-03,Dog,Australian Shepherd,Forever Homes,SomeCity,SomeState,2025-12-31
+56e351e6-b216-430d-884c-619dfceb3408,Pet_6687,12,Male,Small,Available,2025-08-20,,Cat,Scottish Fold,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+fe7f6740-b459-465b-bd97-f7e261527d06,Pet_9537,14,Female,Large,Pending,2025-11-15,,Cat,Turkish Van,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+d1a54838-5fa2-4087-aa4a-b7769456da0c,Pet_8903,13,Male,Small,Pending,2025-08-14,2025-11-04,Dog,German Shepherd,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+32879854-a396-4e3e-b025-8f9c09932015,Pet_8615,2,Male,Small,Pending,2025-08-06,,Cat,Abyssinian,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+4fd1ac64-d507-4def-ad28-dc0f554f9cec,Pet_9715,12,Female,Medium,Adopted,2025-07-13,,Dog,Australian Shepherd,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+523d78a8-59f6-418e-8979-8d1a0cc53110,Pet_7716,10,Female,Medium,Available,2025-12-16,,Dog,Rottweiler,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+14655b6a-2d63-47a5-b391-d0dc5eceb317,Pet_4869,7,Female,Medium,Pending,2025-11-01,,Cat,Bengal,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+cfa004e2-1570-4c00-91a9-09cbc2c6e72e,Pet_6188,13,Male,Small,Adopted,2025-11-01,,Dog,Dachshund,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+e50d45bf-96e4-4322-87b2-a2161658c881,Pet_2286,10,Female,Large,Pending,2025-07-13,,Dog,Rottweiler,Forever Homes,SomeCity,SomeState,2025-12-31
+32c946f9-9604-4588-805e-d405c85a8fcf,Pet_2865,12,Male,Medium,Available,2025-08-08,,Cat,Sphynx,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+3f411ad2-2fd1-4f05-9fea-f3611e97dc81,Pet_3295,8,Female,Large,Adopted,2025-11-01,2025-12-23,Cat,Maine Coon,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+df6b8164-882d-4661-9223-0de41fa61409,Pet_4096,8,Male,Large,Pending,2025-09-24,,Cat,Oriental Shorthair,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+1539cc18-cb61-47e4-aa79-ea51d7d035e7,Pet_6647,3,Female,Small,Available,2025-09-08,,Dog,Poodle,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+76ab443e-7bef-4316-8e73-b15089119461,Pet_1190,7,Female,Large,Adopted,2025-09-02,2025-11-07,Dog,Pomeranian,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+8df675c6-aa4b-4be9-a135-bd4e077b486e,Pet_9185,6,Male,Small,Pending,2025-12-02,,Dog,Doberman,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+6b55d526-1d1f-4e9f-9f49-39b65fa82ca6,Pet_5426,7,Male,Medium,Available,2025-08-04,2025-10-13,Cat,Ragdoll,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+14816ce9-da42-43c3-a518-78352eeae33e,Pet_7314,2,Female,Large,Adopted,2025-10-20,,Dog,Boxer,Forever Homes,SomeCity,SomeState,2025-12-31
+d1142829-c9a8-478e-99d1-26e55771109e,Pet_6928,5,Male,Medium,Adopted,2025-08-04,,Cat,Russian Blue,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+25e068f9-ff66-43b5-bb78-d625c56a21b3,Pet_7284,1,Female,Small,Pending,2025-12-24,,Dog,Cocker Spaniel,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+1347a3f4-bdac-456e-9bdf-338176b28d8c,Pet_7102,13,Female,Medium,Available,2025-08-09,,Cat,Sphynx,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+361b8e82-88cb-40de-890c-d13edaaec211,Pet_4074,13,Female,Large,Pending,2025-10-17,,Dog,Chihuahua,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+88f07c2a-2718-48c5-aa70-176d12a819cd,Pet_1594,14,Male,Medium,Pending,2025-12-18,2026-01-01,Cat,Himalayan,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+146b7a61-fe95-42d0-a923-bc50ed23bf40,Pet_7918,15,Female,Medium,Adopted,2025-09-03,,Dog,Shih Tzu,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+2ec612a5-0883-4103-8ca9-4e2a14b1721d,Pet_2000,2,Male,Large,Available,2025-08-08,2025-11-04,Cat,Scottish Fold,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+6afc192a-bec7-4066-bd25-f9d6de2dc6ed,Pet_7834,12,Female,Small,Pending,2025-11-11,2026-01-18,Dog,Yorkshire Terrier,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+a059e1c7-afc2-4f4f-938d-6cd2b6f84719,Pet_7226,3,Male,Large,Available,2025-08-10,,Cat,Persian,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+1e78deda-0280-473f-b71d-0f224bfc032e,Pet_9662,2,Male,Medium,Adopted,2025-11-29,2026-02-25,Dog,Bulldog,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+76b7d49a-23f7-4e1a-86b0-2277a7e92822,Pet_9470,6,Male,Small,Available,2025-10-02,,Cat,Persian,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+3d5241e1-1a52-4ec7-b529-c70bd8619184,Pet_6812,7,Male,Small,Adopted,2025-11-18,2026-02-13,Cat,British Shorthair,Forever Homes,SomeCity,SomeState,2025-12-31
+6cad3177-2b0e-4f6b-9046-21a4340e60a9,Pet_4364,7,Female,Small,Pending,2025-11-20,2025-12-10,Dog,Doberman,Forever Homes,SomeCity,SomeState,2025-12-31
+3d65a235-81b2-4a0e-9f6e-0ce4cee70a20,Pet_6104,3,Female,Large,Available,2025-07-19,,Dog,Yorkshire Terrier,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+e0c62bd4-87e4-4de2-9c80-c264726dd8ad,Pet_6540,3,Male,Large,Available,2025-09-07,,Dog,Poodle,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+5ff33e4d-2fce-42f5-9101-e869904fd28c,Pet_8564,2,Male,Large,Pending,2025-10-18,,Cat,Turkish Van,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+ca64ebd5-0850-4b38-97d3-7c15fca38444,Pet_6210,13,Male,Small,Pending,2025-07-31,,Cat,Turkish Van,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+b7417e34-785e-499e-b24f-428ca947458e,Pet_8178,11,Male,Large,Available,2025-12-06,2025-12-15,Cat,Scottish Fold,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+edfff130-3e1e-40ef-976f-55ca27e29fdb,Pet_6902,12,Female,Small,Available,2025-08-16,,Dog,Beagle,Forever Homes,SomeCity,SomeState,2025-12-31
+06ec1a16-5f93-4383-a609-2b242ad2e4e5,Pet_7867,15,Female,Medium,Adopted,2025-11-13,,Dog,Australian Shepherd,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+0939b290-be16-4dbe-9b15-18a5d0caf7ce,Pet_4806,7,Female,Large,Pending,2025-07-09,,Dog,Pomeranian,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+f0b2236a-4ff7-434b-8b81-f663b26e337d,Pet_3061,2,Female,Medium,Available,2025-11-18,,Dog,Labrador Retriever,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+a204fee8-98ca-41a1-8da6-d842d745cf26,Pet_5801,1,Male,Large,Available,2025-07-09,,Cat,British Shorthair,Forever Homes,SomeCity,SomeState,2025-12-31
+d535a278-12be-4034-a601-539ca12f0464,Pet_7021,12,Male,Large,Adopted,2025-09-19,,Dog,Shih Tzu,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+dd43bbf4-fb5f-424b-8ccb-487a421dd94e,Pet_3114,14,Male,Medium,Pending,2025-07-23,,Dog,Cocker Spaniel,Forever Homes,SomeCity,SomeState,2025-12-31
+1831d128-37f9-45c5-92a8-e485bad28b06,Pet_5528,7,Female,Medium,Adopted,2025-10-15,,Cat,Oriental Shorthair,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+033ad957-2b16-422a-a21f-b29546e7fcf3,Pet_9919,2,Female,Large,Adopted,2025-07-28,2025-09-01,Dog,Chihuahua,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+44706b50-5eaa-4cb7-a739-18547e53bb2f,Pet_9243,0,Female,Large,Available,2025-11-06,,Dog,Shih Tzu,Forever Homes,SomeCity,SomeState,2025-12-31
+b2196c28-e654-4ca9-9878-d824a58d6da8,Pet_3879,7,Male,Medium,Available,2025-10-23,,Dog,Cocker Spaniel,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+f22a9129-4805-4476-8d32-3dbe9ae897fe,Pet_1888,1,Female,Small,Available,2025-12-22,,Cat,Himalayan,Forever Homes,SomeCity,SomeState,2025-12-31
+24e54441-4845-4abf-8ba3-6c01cccc1c83,Pet_5400,8,Male,Large,Adopted,2025-08-05,,Dog,Cocker Spaniel,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+205d527e-4a28-46e9-a5f6-bf10ce8e6e55,Pet_7809,12,Male,Medium,Pending,2025-11-07,,Dog,Pomeranian,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+f1fff640-8cd0-464d-a647-b173240ef197,Pet_4367,1,Male,Large,Pending,2025-07-12,,Cat,Bengal,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+9afdad21-21f0-449b-97a1-63442f1786c7,Pet_6547,8,Female,Medium,Pending,2025-08-02,2025-10-30,Dog,Bulldog,Forever Homes,SomeCity,SomeState,2025-12-31
+44b90a2b-edf7-456a-9f9e-375da9297499,Pet_6474,3,Male,Large,Pending,2025-07-30,,Dog,Boxer,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+0d511e37-89fe-4792-a68b-56c93bdd7000,Pet_8556,1,Female,Medium,Adopted,2025-12-01,,Dog,Doberman,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+d29ceb0d-2fad-4c95-9d02-28a998eaa6af,Pet_8218,14,Female,Small,Pending,2025-10-25,2025-12-24,Dog,Border Collie,Forever Homes,SomeCity,SomeState,2025-12-31
+2be9c3e7-1e30-4e5c-8447-396c64cda9cf,Pet_7102,8,Male,Large,Adopted,2025-08-22,,Dog,Mastiff,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+569c4f9f-6827-47e8-af15-bcda288ed135,Pet_8549,5,Female,Large,Pending,2025-08-19,,Cat,Norwegian Forest Cat,Forever Homes,SomeCity,SomeState,2025-12-31
+0cfe0de1-7c65-4bd0-891d-fc603121da6e,Pet_6275,5,Female,Large,Pending,2025-09-18,2025-11-14,Cat,Oriental Shorthair,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+71bcc7af-dee0-4c96-a787-05c234589eea,Pet_9730,13,Female,Small,Available,2025-12-07,,Dog,Siberian Husky,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+5d82e4c2-2a66-43ca-9360-cc85f50b7f5c,Pet_5704,10,Female,Medium,Adopted,2025-12-24,,Dog,Dachshund,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+ba208026-4124-4176-a6a1-69ac558531e1,Pet_6644,9,Male,Medium,Adopted,2025-10-30,2025-11-11,Dog,Doberman,Forever Homes,SomeCity,SomeState,2025-12-31
+ff2d56f9-32d1-4ed1-8aab-e415c694ae2c,Pet_4262,14,Female,Medium,Adopted,2025-10-09,2025-11-06,Dog,Bulldog,Forever Homes,SomeCity,SomeState,2025-12-31
+b45f8763-5af9-4148-a5a5-4d0934541bdc,Pet_4950,1,Male,Small,Pending,2025-12-23,2026-01-12,Dog,Yorkshire Terrier,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+f0df9451-489c-4e9e-82e6-1db5f78c7821,Pet_3913,10,Female,Small,Available,2025-10-11,,Cat,Norwegian Forest Cat,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+10bcd749-1fc9-4ef2-bb6b-c25722443faa,Pet_9371,4,Female,Large,Available,2025-09-08,,Dog,German Shepherd,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+e2aca4f1-bb10-4ac5-b683-4a5ae97d506c,Pet_7242,12,Male,Small,Pending,2025-08-23,,Dog,Siberian Husky,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+1235f4e3-feae-4620-9b5c-d48da3dae474,Pet_8448,11,Female,Medium,Pending,2025-10-25,,Dog,Poodle,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+dea57f90-8eb2-465c-b178-7411cf45441e,Pet_3747,13,Female,Large,Adopted,2025-11-25,2026-02-03,Dog,Border Collie,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+804969c9-2ddf-4861-a7ac-7a904c5a9b13,Pet_4520,0,Female,Large,Pending,2025-07-12,,Cat,Scottish Fold,Forever Homes,SomeCity,SomeState,2025-12-31
+65f001fe-c39c-479c-a1f1-9e4350a574e2,Pet_3570,2,Male,Medium,Available,2025-12-27,,Dog,Yorkshire Terrier,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+9fb3df7e-f4d7-440d-b9c8-366fc675cefd,Pet_7962,6,Male,Large,Available,2025-12-01,,Cat,Persian,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+2816e159-faae-45f3-91a0-fffaafaa4335,Pet_8734,13,Female,Medium,Adopted,2025-07-06,,Dog,Australian Shepherd,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+8635ac99-ffa4-4922-88f1-6cf7467660bb,Pet_3593,9,Male,Large,Pending,2025-09-16,,Dog,Golden Retriever,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+5eef3597-1329-49fd-8da2-7a60e0e3ced3,Pet_7594,12,Female,Medium,Adopted,2025-12-08,,Dog,German Shepherd,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+bc77943f-9124-4462-86cd-f5b25178967d,Pet_4058,7,Male,Large,Adopted,2025-11-17,,Cat,Turkish Van,Forever Homes,SomeCity,SomeState,2025-12-31
+5ab339fa-d3d7-4ad7-a3e9-bf3c71c26713,Pet_2045,5,Female,Small,Available,2025-08-07,,Cat,Ragdoll,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+09de797e-399d-4fc4-86f0-d6b39b856223,Pet_4755,6,Male,Large,Adopted,2025-09-24,,Dog,German Shepherd,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+1d1cdfdc-b22a-4911-abdf-391b579f0809,Pet_1307,9,Male,Large,Available,2025-11-03,2025-11-22,Dog,Golden Retriever,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+d124d6a1-9c31-4d09-9d6b-cbcd043d5960,Pet_9583,11,Male,Medium,Available,2025-08-18,2025-10-21,Cat,Turkish Van,Forever Homes,SomeCity,SomeState,2025-12-31
+934747ea-fbae-4658-b6b1-c09c2f19051a,Pet_1327,3,Male,Medium,Pending,2025-10-09,2025-10-19,Cat,Oriental Shorthair,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+80aac121-ec4d-4c64-ba57-432c206a7b21,Pet_3912,10,Female,Medium,Pending,2025-11-16,2025-12-19,Cat,British Shorthair,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+8a1cf69b-9aa2-4227-879c-8302b33222c1,Pet_8398,9,Male,Medium,Adopted,2025-12-18,,Dog,Labrador Retriever,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+9e001eab-5074-42fb-b11d-b4b75bcdb2a8,Pet_2357,8,Male,Medium,Adopted,2025-12-05,,Dog,German Shepherd,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+400ef4ca-a241-47d6-acd7-52ee382aa6fd,Pet_6467,8,Female,Medium,Adopted,2025-11-21,,Cat,Persian,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+5bdcff62-8147-42a0-88e4-855242680655,Pet_5197,5,Female,Small,Adopted,2025-08-19,,Dog,Labrador Retriever,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+4470df9f-28ee-4560-97d4-6dc9e1aad208,Pet_7873,8,Female,Small,Pending,2025-09-12,,Dog,Dachshund,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+3d7411ec-a070-4d0b-8356-87951f60b666,Pet_5539,8,Female,Small,Available,2025-11-11,,Dog,Boxer,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+ef94c2d3-c27a-456b-befc-b5acc415e5fd,Pet_5268,14,Male,Large,Available,2025-11-25,,Cat,Russian Blue,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+27d0dc41-059a-4c56-87a3-6ccaa55055f4,Pet_6357,13,Male,Small,Available,2025-08-04,,Dog,Australian Shepherd,Forever Homes,SomeCity,SomeState,2025-12-31
+ce1b4040-8a0e-48ee-ac23-bda14df3d4d2,Pet_4184,3,Male,Small,Adopted,2025-10-25,,Dog,Beagle,Forever Homes,SomeCity,SomeState,2025-12-31
+93221b85-473b-4469-b3cc-9f54a4caf33f,Pet_1631,0,Female,Large,Adopted,2025-08-06,,Dog,German Shepherd,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+1934e15f-5ba7-4f1b-8bc6-ed75ca24ca96,Pet_8780,11,Male,Small,Adopted,2025-07-19,,Dog,Labrador Retriever,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+1579856b-270b-4460-ab52-e54e64c7f45d,Pet_1058,7,Male,Medium,Pending,2025-11-23,2026-02-02,Dog,Cocker Spaniel,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+efedbe44-6e1b-41de-b57c-91db07ae1e87,Pet_8646,5,Male,Small,Pending,2025-08-28,,Cat,Oriental Shorthair,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+1839d965-9a1b-4481-a8ac-4d3c9693e314,Pet_1754,5,Male,Large,Available,2025-07-13,,Cat,Norwegian Forest Cat,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+13e91ade-e994-440f-975d-beecfa43998b,Pet_8498,7,Male,Medium,Pending,2025-09-27,2025-11-16,Dog,Bulldog,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+8bfef763-6256-4739-9edf-96d2f20cbc38,Pet_1940,1,Male,Medium,Adopted,2025-07-29,,Cat,Abyssinian,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+88d12b5d-42d6-434a-a82c-6b92f9463343,Pet_8293,3,Female,Medium,Adopted,2025-10-09,,Cat,Scottish Fold,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+c8be71ac-29f4-447f-b5f3-f377ee5fd8dd,Pet_6257,9,Male,Medium,Available,2025-07-22,2025-08-04,Dog,Doberman,Forever Homes,SomeCity,SomeState,2025-12-31
+fb458629-5043-40ee-b923-5c23602e27d7,Pet_4433,13,Male,Medium,Available,2025-11-26,2025-12-18,Dog,Beagle,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+b21ccec9-f259-4094-ac25-9f5ec9ff5591,Pet_4231,15,Female,Small,Pending,2025-07-20,2025-07-25,Cat,Russian Blue,Forever Homes,SomeCity,SomeState,2025-12-31
+17848e99-a4a8-403e-999b-d508d48f888e,Pet_4373,3,Female,Small,Pending,2025-12-08,,Dog,Pomeranian,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+956297c6-6b76-4306-bdee-c68a0a3cddad,Pet_4428,2,Female,Small,Available,2025-08-09,,Dog,Golden Retriever,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+5b410219-ec9d-4325-839c-2ca24fcfa100,Pet_1659,7,Female,Small,Available,2025-08-20,2025-10-22,Dog,Shih Tzu,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+0c58c32c-2c9c-4704-9fe8-c83ba515839f,Pet_3667,13,Male,Large,Available,2025-11-04,,Cat,Bengal,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+14b4963e-60de-47ad-8690-a1a73aa60252,Pet_6371,1,Male,Small,Pending,2025-12-29,,Cat,Scottish Fold,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+c45e5a87-ba22-4062-a3c9-5b3b9fb99f12,Pet_7735,3,Female,Medium,Pending,2025-11-10,,Dog,Bulldog,Forever Homes,SomeCity,SomeState,2025-12-31
+fc08a8ba-6121-45fa-9022-97e5b244a35e,Pet_5339,1,Female,Large,Pending,2025-07-16,2025-09-22,Dog,Yorkshire Terrier,Forever Homes,SomeCity,SomeState,2025-12-31
+380d9535-9962-41f8-9b57-6b60fc21f07d,Pet_8539,14,Male,Large,Available,2025-09-21,2025-11-23,Dog,Pomeranian,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+beddf664-1014-490f-b27f-0c4872881392,Pet_4775,5,Male,Large,Available,2025-10-19,,Cat,Oriental Shorthair,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+d77187a5-0790-48ed-8f13-811754edc6a2,Pet_3776,6,Female,Medium,Adopted,2025-09-06,,Dog,Mastiff,Forever Homes,SomeCity,SomeState,2025-12-31
+2db31988-d606-4e0a-b450-4199b70aabea,Pet_6088,2,Male,Small,Available,2025-08-08,2025-09-14,Dog,Poodle,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+2bb95a65-f4c2-4e38-907f-f3caaf217368,Pet_7630,9,Male,Large,Available,2025-09-10,2025-11-11,Cat,Abyssinian,Forever Homes,SomeCity,SomeState,2025-12-31
+2a85bdda-8fab-4aea-9fbe-74d7f606e74b,Pet_3930,12,Female,Medium,Adopted,2025-09-29,,Cat,Abyssinian,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+4a0b9a94-3c4e-4460-92c6-8b0232ee086d,Pet_8280,4,Female,Medium,Adopted,2025-10-24,,Cat,Ragdoll,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+23cfa8b4-0e09-447b-a450-5d9ddc174394,Pet_8051,10,Male,Small,Pending,2025-07-10,,Cat,Devon Rex,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+866d5001-ca0f-4da6-96bf-0a2178c5a48d,Pet_8576,14,Male,Large,Adopted,2025-10-15,,Dog,Doberman,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+c0046c8d-cc0c-4c21-b734-eaae4d641465,Pet_1515,15,Male,Medium,Available,2025-12-19,,Dog,German Shepherd,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+163a4775-9a60-4999-8236-1bdebf6fdfbc,Pet_4328,13,Male,Medium,Pending,2025-12-24,2026-01-17,Dog,Yorkshire Terrier,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+3ed420b3-224e-4435-aae3-df14c5a85d74,Pet_6194,5,Male,Medium,Adopted,2025-07-25,2025-09-19,Cat,Norwegian Forest Cat,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+4cd48131-d613-443c-ab9c-1e0964454022,Pet_9023,0,Male,Large,Pending,2025-11-16,,Cat,Oriental Shorthair,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+7eb088d7-8609-4755-ac5e-1619c45dc97a,Pet_5155,12,Female,Large,Adopted,2025-08-03,,Cat,Himalayan,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+ab0771e7-523d-4ae3-bc33-9ce06ba1f414,Pet_2416,5,Male,Large,Available,2025-09-18,,Dog,Chihuahua,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+c162cbcb-af8a-4a07-bff9-82b5a7ae8460,Pet_1987,4,Male,Small,Available,2025-07-06,2025-07-26,Dog,Siberian Husky,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+38dbc8c0-f112-440a-aec5-5d940a0e6c2b,Pet_2999,3,Female,Large,Available,2025-12-17,,Cat,Bengal,Forever Homes,SomeCity,SomeState,2025-12-31
+1b843ed1-c1e2-4549-a81d-3dfaea5504fa,Pet_7565,6,Female,Large,Available,2025-12-02,,Dog,Doberman,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+6d834666-b99b-43b6-b678-ce284d62b8c2,Pet_5953,9,Female,Medium,Available,2025-08-21,2025-11-16,Cat,Ragdoll,Forever Homes,SomeCity,SomeState,2025-12-31
+f15686c4-d6f2-4734-b7e8-703a4c4cd4b5,Pet_8314,6,Male,Small,Pending,2025-11-02,2025-12-22,Dog,Dachshund,Forever Homes,SomeCity,SomeState,2025-12-31
+ff03bee0-e4cd-4bcf-b734-3e9b10649731,Pet_3883,7,Female,Medium,Adopted,2025-09-12,2025-12-05,Dog,Australian Shepherd,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+9fb21995-3fce-4fcc-a66e-a2ca27468b90,Pet_1573,4,Female,Large,Adopted,2025-12-21,,Cat,Turkish Van,Forever Homes,SomeCity,SomeState,2025-12-31
+6f5ae69c-c3ce-4413-a71e-31ddb7074bdb,Pet_1421,14,Female,Medium,Available,2025-08-20,,Dog,Labrador Retriever,Forever Homes,SomeCity,SomeState,2025-12-31
+ac427397-e7fd-4c4c-aa64-2390c1421cc4,Pet_2674,0,Female,Small,Available,2025-07-16,,Dog,Australian Shepherd,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+d784a724-503e-41b4-8d2d-29f4d9ad11bb,Pet_2104,9,Male,Medium,Adopted,2025-12-25,,Cat,Turkish Van,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+7e83c7f6-1a12-48fe-af46-1d566420aee4,Pet_2680,4,Female,Large,Available,2025-12-16,,Cat,Abyssinian,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+fb6e967e-83d7-437e-a254-50cebae4e51f,Pet_6079,13,Female,Small,Pending,2025-11-03,,Cat,Russian Blue,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+4d44fb54-9acb-4142-8d90-421ddf0d077f,Pet_2889,13,Female,Small,Pending,2025-11-01,,Cat,Devon Rex,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+20bba703-7982-4cba-ae76-d4a7373eadd6,Pet_9735,12,Male,Medium,Pending,2025-07-25,,Cat,Oriental Shorthair,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+f786cb69-e07a-48b7-ba2c-795cad7ca835,Pet_2198,0,Female,Large,Available,2025-12-21,2026-03-10,Dog,Pomeranian,Forever Homes,SomeCity,SomeState,2025-12-31
+2708eda6-8f44-4269-8f3d-4d569cd8010b,Pet_6309,14,Male,Small,Pending,2025-10-24,,Dog,Yorkshire Terrier,Forever Homes,SomeCity,SomeState,2025-12-31
+25daaf42-d6a1-4da3-877c-dc599ff8dfed,Pet_9310,9,Male,Small,Adopted,2025-08-28,2025-10-18,Dog,Yorkshire Terrier,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+0fc707e3-4c54-472a-a684-89943f00f7e5,Pet_4993,14,Male,Small,Adopted,2025-08-31,,Cat,Bengal,Forever Homes,SomeCity,SomeState,2025-12-31
+53bc418d-936b-4585-a021-e0ae93c7b602,Pet_3179,9,Female,Small,Pending,2025-11-02,2025-11-09,Cat,Sphynx,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+edec2e20-a5b6-4a02-ad57-afe02609fb3b,Pet_9348,3,Female,Medium,Pending,2025-09-19,2025-11-02,Cat,Turkish Van,Forever Homes,SomeCity,SomeState,2025-12-31
+d55ac9fd-081b-48f7-929a-6e749cb1f63b,Pet_6883,12,Female,Medium,Pending,2025-07-13,,Cat,Siamese,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+3ae89bbe-18d1-4f26-a604-d00cefe788ff,Pet_6326,15,Female,Small,Adopted,2025-09-07,,Cat,Turkish Van,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+b5771b08-e569-40ec-895d-ef96f60529d1,Pet_7275,2,Male,Large,Adopted,2025-08-21,2025-09-12,Dog,Border Collie,Forever Homes,SomeCity,SomeState,2025-12-31
+8b3687f3-dbc5-4006-9e2f-629db3c7d6e1,Pet_1612,9,Female,Large,Pending,2025-07-21,,Cat,Maine Coon,Forever Homes,SomeCity,SomeState,2025-12-31
+a9347560-e534-4dd3-a8f2-78cda745ec30,Pet_9457,6,Female,Small,Adopted,2025-08-16,,Dog,Great Dane,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+81c35237-99bf-4b5f-83c5-95a31fabc760,Pet_2795,10,Female,Medium,Available,2025-12-28,,Cat,Sphynx,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+e1a69b52-87b2-4c7d-95dd-4052efcdf08f,Pet_2807,10,Male,Medium,Adopted,2025-11-12,,Dog,Yorkshire Terrier,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+504a54b9-996e-437e-91dd-593935a38dd5,Pet_1493,12,Male,Small,Available,2025-07-09,,Dog,Doberman,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+99c9e486-4868-4137-b016-87f95b4f6e5c,Pet_5870,13,Female,Small,Adopted,2025-08-30,,Dog,Doberman,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+4455430b-dde0-49b8-a3fa-0e4b97e351cb,Pet_8102,1,Male,Medium,Pending,2025-10-21,2025-10-26,Cat,Devon Rex,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+2a8cf0cf-c3c3-4561-9563-fe3f1b0deb21,Pet_4823,1,Female,Large,Available,2025-07-15,,Dog,Beagle,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+7d17a229-260e-4e8d-9597-b4f7a9f538b7,Pet_3089,0,Male,Small,Adopted,2025-08-26,2025-09-30,Dog,Boxer,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+d1789b52-1efe-4507-ac0d-af01c1b575a7,Pet_6237,15,Female,Small,Pending,2025-12-02,2025-12-06,Dog,Golden Retriever,Forever Homes,SomeCity,SomeState,2025-12-31
+0c9e005c-698e-4db0-a69f-b7342a4ceaad,Pet_4703,15,Male,Small,Available,2025-12-16,,Cat,Turkish Van,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+dd185054-34f1-46d7-aa65-74d098f866cb,Pet_1126,2,Male,Small,Available,2025-07-08,2025-09-27,Cat,Norwegian Forest Cat,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+036a43a7-594e-422c-986a-5193446535f9,Pet_5668,8,Male,Small,Adopted,2025-12-04,,Dog,Yorkshire Terrier,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+76394fd5-3bb6-461a-8a5c-d5746baa8d37,Pet_9487,8,Female,Large,Adopted,2025-09-14,,Cat,Devon Rex,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+b04c62d7-8788-44d5-af21-7eac8661a081,Pet_5392,15,Female,Large,Adopted,2025-11-18,,Cat,Ragdoll,Forever Homes,SomeCity,SomeState,2025-12-31
+ec1fbff7-c4a4-4c3a-8d44-5d578cac5ba5,Pet_5526,5,Male,Small,Adopted,2025-10-03,,Dog,Great Dane,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+01c6095a-367e-451f-8f21-fe0e8f8be29a,Pet_5202,11,Female,Large,Adopted,2025-07-28,,Cat,Abyssinian,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+d915b57b-7e72-4598-ba71-be1243c4fd0f,Pet_1071,7,Male,Small,Pending,2025-08-02,,Cat,Norwegian Forest Cat,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+a31b4963-de39-4a46-a365-52b0dc7b6729,Pet_9151,4,Male,Large,Pending,2025-07-10,2025-09-22,Dog,Shih Tzu,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+10b1f24d-0f9a-47ea-b022-b4709b70f37c,Pet_2084,6,Male,Small,Pending,2025-10-30,2025-12-24,Dog,Cocker Spaniel,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+02a237bd-7256-4146-9d8e-733e63e93453,Pet_3110,3,Female,Small,Available,2025-08-04,,Dog,German Shepherd,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+dff45a18-12f7-4685-85fd-d850d2155c88,Pet_6403,10,Female,Large,Available,2025-08-12,,Cat,Oriental Shorthair,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+3b98bb70-7689-4050-8205-3f1c6f72af9f,Pet_1533,10,Female,Medium,Adopted,2025-07-07,2025-07-12,Cat,Abyssinian,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+145a926f-626c-4b19-a5dc-65adaf7a6f18,Pet_4585,11,Male,Small,Available,2025-09-28,,Dog,German Shepherd,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+f3cd12bd-f034-4810-991f-774e08a56f3d,Pet_7053,13,Female,Small,Available,2025-11-25,,Dog,Boxer,Forever Homes,SomeCity,SomeState,2025-12-31
+03d351d3-2da1-40cb-88ea-742cffdc7589,Pet_7750,8,Female,Medium,Pending,2025-10-17,2025-11-20,Dog,Beagle,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+646645bc-2aaf-4bcf-ad1d-0767972af49a,Pet_6659,3,Male,Medium,Pending,2025-07-09,,Cat,Norwegian Forest Cat,Forever Homes,SomeCity,SomeState,2025-12-31
+4b437806-6959-4e7d-b808-f3300e1cfd39,Pet_4252,3,Female,Large,Pending,2025-08-26,,Dog,Bulldog,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+79bf9a4c-f9d8-4cb4-87dd-95c713e1916b,Pet_7833,11,Female,Medium,Pending,2025-12-01,2026-02-04,Cat,Norwegian Forest Cat,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+b2600ffa-88e9-44ca-a44e-47202a3ca446,Pet_6024,10,Female,Medium,Pending,2025-08-03,2025-10-16,Cat,Maine Coon,Forever Homes,SomeCity,SomeState,2025-12-31
+e5f7cd33-03ba-4f02-b0a4-f539a3146a87,Pet_7464,11,Male,Large,Pending,2025-10-10,,Cat,Sphynx,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+d9de54f8-a4c0-43e3-8d10-fdc794d79603,Pet_2818,10,Male,Large,Adopted,2025-09-08,,Cat,Himalayan,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+4b096b04-33b1-4d7c-9619-812c41a17726,Pet_8569,8,Male,Large,Adopted,2025-10-28,2026-01-04,Dog,Doberman,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+a7fa01a9-31f2-485e-8707-c2b95d589be4,Pet_4307,0,Male,Medium,Available,2025-08-04,,Cat,Maine Coon,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+ed410609-95c8-4122-bf44-6ed8a757a72b,Pet_1729,15,Female,Medium,Available,2025-09-30,,Dog,Border Collie,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+1030e9a7-248e-4eb3-8679-a66646581071,Pet_5173,12,Male,Medium,Pending,2025-09-08,2025-10-17,Dog,Rottweiler,Forever Homes,SomeCity,SomeState,2025-12-31
+a6457216-b492-4a34-9793-5153bf0f58a6,Pet_6042,1,Female,Large,Pending,2025-09-02,,Dog,Boxer,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+f1a4a755-2e56-4bca-bcab-58204a450709,Pet_1111,14,Male,Medium,Pending,2025-09-18,,Dog,Poodle,Forever Homes,SomeCity,SomeState,2025-12-31
+7c7a196f-da5c-4418-9b08-fb3d5c4d4042,Pet_8468,3,Male,Medium,Pending,2025-11-14,,Cat,British Shorthair,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+ddfdd408-b501-43c5-a0ed-82bf3d228f83,Pet_7038,11,Male,Small,Pending,2025-07-07,,Cat,Abyssinian,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+5aeb9436-f421-4e68-8df0-d67f4474ce2a,Pet_5157,1,Female,Medium,Adopted,2025-10-29,,Dog,Australian Shepherd,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+d0bd28a3-0866-451a-b198-36d7fd3486b1,Pet_3011,5,Female,Small,Adopted,2025-12-23,,Cat,British Shorthair,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+93f0b232-2274-40f6-8c36-f4d8580cc1d1,Pet_2315,10,Male,Large,Available,2025-08-23,,Dog,Poodle,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+fa69b654-4931-4fe3-bd36-e6c291cc276e,Pet_8800,0,Male,Small,Pending,2025-08-10,2025-08-17,Dog,Beagle,Forever Homes,SomeCity,SomeState,2025-12-31
+d3a6d757-d99f-4d7e-9e6f-da1ea60b4b62,Pet_9023,12,Female,Large,Pending,2025-09-15,,Cat,Bengal,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+699234ad-8b94-48d6-a9dc-847ad5560418,Pet_6389,12,Male,Medium,Adopted,2025-10-06,2025-12-10,Cat,Russian Blue,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+19cefc81-1bcc-4138-8b23-27bf734c5327,Pet_5253,6,Male,Large,Adopted,2025-08-21,,Cat,Oriental Shorthair,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+b04a5bc3-687a-484f-886b-78f9784a825b,Pet_5642,0,Male,Medium,Pending,2025-07-26,,Dog,Rottweiler,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+7b49f16d-fd83-434c-be4f-9c0658f850bd,Pet_6650,6,Male,Medium,Pending,2025-12-16,,Cat,Himalayan,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+4a3b6e5d-ebb7-4c57-a01d-ec00263e4236,Pet_1503,15,Male,Medium,Available,2025-12-13,2026-03-04,Dog,Dachshund,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+05fe9ea0-98b1-4a99-90c8-6640b148e491,Pet_8902,9,Male,Small,Pending,2025-09-10,,Dog,German Shepherd,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+5656c54a-1259-426c-9495-fe55c918898b,Pet_7688,6,Female,Small,Pending,2025-08-17,,Cat,Bengal,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+7ea74951-4028-451b-90a8-630d31e795a6,Pet_6184,0,Male,Small,Pending,2025-09-25,,Cat,Bengal,Forever Homes,SomeCity,SomeState,2025-12-31
+53a685a1-bcb9-4b02-a9e6-650b57faf13f,Pet_7403,6,Female,Medium,Pending,2025-07-13,,Dog,Golden Retriever,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+05582489-fad6-4aea-a481-bda1c349a079,Pet_3766,1,Male,Medium,Available,2025-07-11,2025-07-19,Dog,Shih Tzu,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+05370d30-05a8-45c5-91e3-356ee3ed6007,Pet_1914,6,Male,Large,Adopted,2025-09-28,,Dog,Boxer,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+dd2768ea-9f80-4cf8-a3db-c7ff66ff6277,Pet_8743,11,Female,Large,Adopted,2025-10-07,,Dog,Mastiff,Forever Homes,SomeCity,SomeState,2025-12-31
+b1799f60-0acd-403f-8b41-7ad7fa18666b,Pet_9491,5,Male,Large,Adopted,2025-11-19,2025-12-14,Cat,Sphynx,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+b2fb0f91-99b1-4ec5-a788-22caf4284b29,Pet_7888,1,Female,Medium,Pending,2025-12-21,,Cat,Oriental Shorthair,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+8fe1bdd4-5dbd-41b1-ae58-fcd5b047c61f,Pet_4367,13,Female,Medium,Adopted,2025-11-20,2025-11-27,Dog,German Shepherd,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+65ca3272-4514-4b5d-be45-37ef63abf69b,Pet_8147,7,Male,Small,Pending,2025-09-13,,Cat,Abyssinian,Forever Homes,SomeCity,SomeState,2025-12-31
+6206f29a-9c51-4441-8f74-1a52e2d87dd5,Pet_9151,10,Female,Medium,Pending,2025-07-15,,Dog,Boxer,Forever Homes,SomeCity,SomeState,2025-12-31
+d3940a6a-57ec-424e-90eb-2ca2e5f6295a,Pet_3142,0,Male,Small,Adopted,2025-09-11,2025-10-01,Dog,Border Collie,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+c1bd6f21-d133-41ba-846f-b68315ed546c,Pet_5796,9,Female,Medium,Adopted,2025-10-01,2025-12-30,Dog,Bulldog,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+de1a3fe5-92de-4020-ae87-b30e296c7872,Pet_5044,13,Female,Small,Pending,2025-09-06,,Cat,Russian Blue,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+47d30f88-ff0f-4947-89d7-f586d0e3ec46,Pet_1375,12,Female,Medium,Pending,2025-12-22,,Dog,Shih Tzu,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+dcfe4eae-71ea-49b9-933c-c3aa74f3c2c1,Pet_8678,3,Female,Small,Pending,2025-11-03,,Dog,Beagle,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+d14f0b81-9440-42b6-98aa-39958a2324f1,Pet_3021,7,Female,Medium,Pending,2025-12-28,,Dog,Golden Retriever,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+fca71c2e-6395-42d5-b06b-e75f0db7672a,Pet_7537,12,Female,Large,Adopted,2025-07-20,,Cat,British Shorthair,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+ede8e617-089e-4381-923f-c4a0ad19ac9e,Pet_7410,15,Male,Large,Pending,2025-10-04,,Cat,British Shorthair,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+836bb86c-f892-439e-9b15-2b8e250c94d8,Pet_5213,13,Female,Medium,Available,2025-10-23,2025-10-30,Dog,Great Dane,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+75ea2fff-bd93-45f6-a28c-271becfbd7df,Pet_2632,5,Female,Medium,Available,2025-10-29,,Dog,Boxer,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+1502daae-8b56-45c2-ae6e-b68bd738a3ff,Pet_8355,10,Male,Medium,Adopted,2025-12-22,,Dog,German Shepherd,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+fc1c4fb1-079c-45f6-aea9-e550d75cdbb5,Pet_6312,10,Female,Large,Available,2025-10-19,,Cat,Siamese,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+b9a04280-36d5-4fd4-ba2c-f87d6e855f98,Pet_1262,13,Female,Medium,Pending,2025-08-01,,Cat,Maine Coon,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+db1bc921-7b62-4d77-add2-433acf26ab39,Pet_6461,8,Male,Large,Available,2025-09-16,,Cat,Sphynx,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+49736e62-1656-4138-b304-d3fa499cbb2e,Pet_3037,14,Male,Large,Available,2025-09-09,,Dog,Great Dane,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+71d13cf9-4da3-49d9-816a-492b89dc235f,Pet_4584,5,Male,Large,Adopted,2025-08-16,2025-10-04,Cat,Devon Rex,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+b72b18f8-2593-4afa-b720-ce18f5378e97,Pet_4563,2,Female,Small,Pending,2025-11-04,,Cat,Siamese,Forever Homes,SomeCity,SomeState,2025-12-31
+b93a84ab-9878-4374-a3f2-7057ff7a53ac,Pet_5870,12,Female,Small,Adopted,2025-08-16,,Dog,Yorkshire Terrier,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+3abb9417-23ea-4b1d-a667-d84ac90947ac,Pet_1811,15,Male,Small,Adopted,2025-11-29,,Cat,Russian Blue,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+8866e779-64ed-46b8-943e-6b6fda76516d,Pet_2334,15,Female,Small,Pending,2025-12-28,,Cat,Birman,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+b603421b-f389-4e2b-8b7a-9df41d7326d6,Pet_1454,1,Female,Medium,Pending,2025-08-19,,Cat,Birman,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+008cdfde-dc09-42e8-b322-0a15d1f598c0,Pet_4480,14,Female,Medium,Adopted,2025-07-12,,Dog,Shih Tzu,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+f8109200-41c8-453c-92e7-d920789ffd47,Pet_9313,7,Male,Large,Pending,2025-11-05,2026-01-01,Dog,Golden Retriever,Forever Homes,SomeCity,SomeState,2025-12-31
+1e050da0-e104-4b3d-a36d-5c775a88680b,Pet_3514,2,Female,Large,Pending,2025-12-16,,Dog,Beagle,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+3baadca4-a952-4060-938a-f0b63057fafb,Pet_4817,9,Female,Medium,Available,2025-10-07,,Cat,Norwegian Forest Cat,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+ae1b1fd9-eecf-4bff-9ef3-1db03c054204,Pet_2848,3,Female,Small,Adopted,2025-12-30,,Cat,Maine Coon,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+762981e0-df36-45f8-9e8c-ab93c2bfd2e9,Pet_5337,15,Female,Large,Pending,2025-10-04,,Dog,Bulldog,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+b5002a6a-fda5-4a23-9e4c-c6eebbd8d47e,Pet_6665,8,Female,Medium,Adopted,2025-11-06,,Dog,Rottweiler,Forever Homes,SomeCity,SomeState,2025-12-31
+a466cbc2-b54a-497b-b696-d99ad1ca147e,Pet_5329,1,Male,Large,Adopted,2025-08-05,,Cat,Russian Blue,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+38855d2a-bef2-477d-baa9-6a18d4690003,Pet_3587,2,Male,Medium,Pending,2025-08-15,,Dog,Chihuahua,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+4c0786b7-a35a-4125-9e34-4b5953e2b690,Pet_5852,7,Female,Medium,Available,2025-11-17,,Cat,Oriental Shorthair,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+37d0922a-98d9-4ccb-87ba-ecce0d020e22,Pet_9598,6,Female,Medium,Pending,2025-09-29,,Dog,Poodle,Forever Homes,SomeCity,SomeState,2025-12-31
+44cda26a-93f6-4ec9-961c-5edb6214f484,Pet_9742,5,Male,Large,Adopted,2025-11-16,,Dog,Boxer,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+e1d502fc-6efc-4bf9-8ad5-d057b96f2f1a,Pet_5232,4,Male,Large,Available,2025-10-11,,Dog,Chihuahua,Forever Homes,SomeCity,SomeState,2025-12-31
+9fb4dc13-2ebc-4042-8583-554967c7fe77,Pet_5554,8,Male,Large,Pending,2025-09-07,,Dog,Poodle,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+90583776-21f2-4f26-9706-03b72abd4e47,Pet_5529,7,Male,Small,Pending,2025-10-24,2025-12-22,Dog,Poodle,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+a36c6250-a485-458d-a9bb-ca1c48b70003,Pet_5127,5,Female,Small,Pending,2025-08-08,,Dog,Australian Shepherd,Forever Homes,SomeCity,SomeState,2025-12-31
+11b21708-1456-484e-8dfa-642c3e69e618,Pet_8251,3,Male,Large,Adopted,2025-10-12,,Dog,Dachshund,Forever Homes,SomeCity,SomeState,2025-12-31
+2a54e876-bacb-4848-b53b-9ca6ac542522,Pet_9030,11,Female,Large,Available,2025-09-22,2025-10-05,Dog,Border Collie,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+28300c0b-8911-4358-8e0a-ca7d31a3fae0,Pet_2091,0,Male,Small,Pending,2025-12-07,2026-01-31,Dog,Doberman,Forever Homes,SomeCity,SomeState,2025-12-31
+84aa6b69-2421-4e3f-b77a-bd7877e89e27,Pet_3747,12,Male,Large,Pending,2025-07-23,,Dog,Yorkshire Terrier,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31
+c7a9eceb-da56-4e4d-8921-33a2f95df370,Pet_7717,2,Female,Small,Adopted,2025-12-12,,Cat,Abyssinian,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+91fd9b4d-00a6-4638-b62f-7907a5cde18e,Pet_7420,15,Female,Medium,Pending,2025-12-24,,Dog,Great Dane,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+ec5cb617-fb46-4b51-a30e-cdaf3fb42ad5,Pet_1388,1,Female,Medium,Pending,2025-09-25,,Cat,Sphynx,Forever Homes,SomeCity,SomeState,2025-12-31
+0d895604-ac6f-4615-b768-af857273b27d,Pet_3285,10,Female,Small,Available,2025-08-28,,Dog,Australian Shepherd,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+04809d46-d676-4899-a3bc-9efd6fb7628e,Pet_6573,3,Male,Medium,Available,2025-11-06,,Dog,Labrador Retriever,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+cd0575db-fa83-4cd2-91b7-8fd07f3fa042,Pet_5199,4,Male,Medium,Adopted,2025-09-09,,Dog,Border Collie,Forever Homes,SomeCity,SomeState,2025-12-31
+cc4768a3-529b-48f4-b71e-dd258ffcbc15,Pet_7251,10,Male,Small,Adopted,2025-09-06,,Cat,Sphynx,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+95b5563c-2626-4ee1-849e-43573a6fa925,Pet_7513,7,Female,Medium,Pending,2025-11-19,,Dog,Pomeranian,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+c7afa385-6372-43fd-bfb8-84c29677fcd1,Pet_8063,14,Male,Small,Pending,2025-11-27,,Dog,Great Dane,Furry Friends Rescue,SomeCity,SomeState,2025-12-31
+a5c06373-ab9d-48fa-8197-6bacd820b8f5,Pet_3193,2,Female,Small,Adopted,2025-12-09,,Dog,German Shepherd,Happy Tails Shelter,SomeCity,SomeState,2025-12-31
+5da5dd0d-17f5-4cfa-b332-65b4a52343ab,Pet_8321,2,Female,Medium,Adopted,2025-10-06,,Dog,Doberman,Safe Haven Animal Shelter,SomeCity,SomeState,2025-12-31
+2c221638-67ae-46ae-aae3-bed43723e235,Pet_3308,3,Female,Medium,Pending,2025-11-10,,Dog,Mastiff,Forever Homes,SomeCity,SomeState,2025-12-31
+c5909da8-f815-4889-a108-7a2a508654ac,Pet_7550,3,Male,Medium,Adopted,2025-08-15,,Cat,Russian Blue,Paws & Claws Rescue,SomeCity,SomeState,2025-12-31

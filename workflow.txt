@@ -1,0 +1,44 @@
+Daily / New Snapshot Workflow
+
+Generate a new raw snapshot
+
+python -m ingest.generate_mock_animals_csv
+
+
+Output: raw/animals_snapshot_<timestamp>.csv
+
+Update clean CSVs & Parquets
+
+python transform/update_clean_csvs_db_aware.py
+
+
+Reads all raw/*.csv snapshots
+
+Updates clean/*.csv and clean_parquet/*.parquet for:
+
+pet_types
+
+breeds
+
+shelters
+
+pets / animals
+
+Load incrementally into PostgreSQL
+
+python load/load_parquet_to_postgres_incremental_v3.py
+
+
+Ensures all tables exist
+
+Loads new rows from clean Parquets into:
+
+pet_types
+
+breeds
+
+shelters
+
+animals
+
+✅ After this, your database is up-to-date.

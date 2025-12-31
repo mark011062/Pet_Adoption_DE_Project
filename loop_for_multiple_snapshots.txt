@@ -1,0 +1,4 @@
+for %f in (raw\animals_snapshot_*.csv) do @(
+  python transform\update_clean_csvs_db_aware.py --snapshot "%f"
+  python load\load_parquet_to_postgres_incremental_v3.py
+)

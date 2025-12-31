@@ -8,7 +8,7 @@ import os
 # CONFIGURATION
 # ------------------------
 RAW_FOLDER = "raw"
-NUM_RECORDS = 556  # you can adjust this
+NUM_RECORDS = 444 
 TODAY = datetime.today()
 
 # Pet types and expanded breeds

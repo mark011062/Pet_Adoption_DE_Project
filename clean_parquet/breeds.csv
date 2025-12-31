@@ -1,37 +1,37 @@
 breed,breed_id,type_id
-Beagle,705232c2-e416-4bd6-8a8c-ea372e8d1202,2c3cc350-1de7-4a19-a153-f648a337022e
-Bengal,91810fe6-2364-4141-b4aa-acffc99db8f7,8ee2cf32-3e53-4f9f-9f23-4268efa149f8
-Abyssinian,b3d778d6-450f-4c21-9508-f774968ff5f9,8ee2cf32-3e53-4f9f-9f23-4268efa149f8
-Oriental Shorthair,bf8528f3-b879-4b41-9025-16e14b4bb35b,8ee2cf32-3e53-4f9f-9f23-4268efa149f8
-Boxer,8effbe77-d3df-473d-bfc8-0f2dc528e85b,2c3cc350-1de7-4a19-a153-f648a337022e
-Mastiff,5ff2395c-33ae-43ea-ac32-af8d23ff67d8,2c3cc350-1de7-4a19-a153-f648a337022e
-Devon Rex,1a4022d9-8d13-42e4-99d1-caaa66fc54d9,8ee2cf32-3e53-4f9f-9f23-4268efa149f8
-Yorkshire Terrier,200440fa-c897-4048-9593-b41caf797d62,2c3cc350-1de7-4a19-a153-f648a337022e
-Siamese,3a6e6275-defe-4750-9a6d-ca3861afecd6,8ee2cf32-3e53-4f9f-9f23-4268efa149f8
-Persian,6a9de883-8eaa-4188-821e-1efa955912af,8ee2cf32-3e53-4f9f-9f23-4268efa149f8
-British Shorthair,0019b27e-03cf-46c5-980b-aea1dca4bca9,8ee2cf32-3e53-4f9f-9f23-4268efa149f8
-Scottish Fold,8ed27e00-d8b1-4d65-9176-7cefe6ee42ce,8ee2cf32-3e53-4f9f-9f23-4268efa149f8
-Birman,3107551f-4041-498c-9952-04820c08363d,8ee2cf32-3e53-4f9f-9f23-4268efa149f8
-Rottweiler,793a3d33-507c-4bb4-a2ed-1495121fa392,2c3cc350-1de7-4a19-a153-f648a337022e
-Turkish Van,3b9b0900-c860-4dab-8934-b6e5b8ff41c5,8ee2cf32-3e53-4f9f-9f23-4268efa149f8
-Shih Tzu,d42ee9d3-5bbc-4e87-8fe1-0facbaff4c31,2c3cc350-1de7-4a19-a153-f648a337022e
-Sphynx,e90cf27f-cada-4906-ae0a-c60bc299729a,8ee2cf32-3e53-4f9f-9f23-4268efa149f8
-Border Collie,8dbb6fff-d10a-40e0-abea-af9fa2d1dcdc,2c3cc350-1de7-4a19-a153-f648a337022e
-Maine Coon,6668883a-f259-40ed-9881-347d91d01d10,8ee2cf32-3e53-4f9f-9f23-4268efa149f8
-Norwegian Forest Cat,92cf680d-8e9a-47cc-a9e7-f0a1db3269da,8ee2cf32-3e53-4f9f-9f23-4268efa149f8
-Dachshund,b29cb8fe-79b8-42f1-99be-cdc8c9333b7f,2c3cc350-1de7-4a19-a153-f648a337022e
-Golden Retriever,44d56374-fd9b-4d8f-81dd-0824bae762e2,2c3cc350-1de7-4a19-a153-f648a337022e
-Cocker Spaniel,5e283e6f-4644-4726-96c7-4fea00a4ac02,2c3cc350-1de7-4a19-a153-f648a337022e
-Great Dane,c5f5a341-3a57-44de-8f94-eefd8c912e68,2c3cc350-1de7-4a19-a153-f648a337022e
-Himalayan,80ddd34f-38ca-459f-b25a-a8aaed3ea17a,8ee2cf32-3e53-4f9f-9f23-4268efa149f8
-Russian Blue,abf56744-1909-4ad3-9bcd-e87b8cd20b6b,8ee2cf32-3e53-4f9f-9f23-4268efa149f8
-Chihuahua,eacca812-daa7-489f-8fd2-6b374970ab23,2c3cc350-1de7-4a19-a153-f648a337022e
-German Shepherd,a83526a3-a41e-4c22-8142-884157e9bdbb,2c3cc350-1de7-4a19-a153-f648a337022e
-Bulldog,bea92445-8b6b-411a-9cfb-0d502dbb56e2,2c3cc350-1de7-4a19-a153-f648a337022e
-Poodle,b2316a78-0a70-42e8-b884-d8a702998628,2c3cc350-1de7-4a19-a153-f648a337022e
-Ragdoll,3940fcdd-0fa5-48b4-a189-33945c061a2d,8ee2cf32-3e53-4f9f-9f23-4268efa149f8
-Australian Shepherd,32731c6e-9fd0-4a0e-97fb-5d7c7da6f612,2c3cc350-1de7-4a19-a153-f648a337022e
-Doberman,4ebdc45c-5d90-4ff9-976c-3829fbda05d9,2c3cc350-1de7-4a19-a153-f648a337022e
-Labrador Retriever,a115f2b1-dc96-4ea5-a468-c889b787c79b,2c3cc350-1de7-4a19-a153-f648a337022e
-Siberian Husky,2b79e954-57b0-4aba-b764-5fff4bbbba5b,2c3cc350-1de7-4a19-a153-f648a337022e
-Pomeranian,0ea361db-45fa-4c0a-9fe1-f5c7b648093d,2c3cc350-1de7-4a19-a153-f648a337022e
+Abyssinian,0f5de5f3-4c81-4252-98e1-05eb38d9eb15,dc47c99b-8a16-4667-ab3f-ea339ece6697
+Bengal,d7311d66-c62a-4d30-bb8f-3aae60dd207d,dc47c99b-8a16-4667-ab3f-ea339ece6697
+Birman,d56c4887-d338-417f-b819-3543ee5906be,dc47c99b-8a16-4667-ab3f-ea339ece6697
+British Shorthair,306885b3-2b93-482d-ac88-735b012acfd9,dc47c99b-8a16-4667-ab3f-ea339ece6697
+Devon Rex,4326ae87-1753-4d1b-9743-7338187ae611,dc47c99b-8a16-4667-ab3f-ea339ece6697
+Himalayan,dd13d120-8a6d-46d3-9ccd-ca01c1208b51,dc47c99b-8a16-4667-ab3f-ea339ece6697
+Maine Coon,67caf719-6a1c-4822-b87f-10d497c70548,dc47c99b-8a16-4667-ab3f-ea339ece6697
+Norwegian Forest Cat,27af15ad-733a-4bd6-881d-3e6968be44e8,dc47c99b-8a16-4667-ab3f-ea339ece6697
+Oriental Shorthair,04c2400d-d6d2-4b05-b2a3-ce5385cf444f,dc47c99b-8a16-4667-ab3f-ea339ece6697
+Persian,2770f83d-478b-491d-bb79-71ac79d4a920,dc47c99b-8a16-4667-ab3f-ea339ece6697
+Ragdoll,4a8dbd1b-89be-4e93-a914-3c1cb3a4af0d,dc47c99b-8a16-4667-ab3f-ea339ece6697
+Russian Blue,eb54b275-04fd-4545-bccc-f06ad68e60c1,dc47c99b-8a16-4667-ab3f-ea339ece6697
+Scottish Fold,6c841531-0151-4d47-a3d8-57c9c3dd1448,dc47c99b-8a16-4667-ab3f-ea339ece6697
+Siamese,433d6004-c694-44e1-9d4a-513a341dc6a9,dc47c99b-8a16-4667-ab3f-ea339ece6697
+Sphynx,43b69617-bb3b-4660-9c3c-7ac39b5a5484,dc47c99b-8a16-4667-ab3f-ea339ece6697
+Turkish Van,acc6929e-bb51-458c-8f51-c7180434257a,dc47c99b-8a16-4667-ab3f-ea339ece6697
+Australian Shepherd,c0b17046-cba1-4927-a6cf-e97a9f8f73ec,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Beagle,6d974b31-8d37-4813-9ea6-d04e24a7634a,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Border Collie,e2b05c44-606c-416a-ba68-a896baadfb74,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Boxer,6f52367b-0d5f-49d4-8ec0-38777e4c92a1,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Bulldog,6d8bc93a-8c49-4828-b34a-ca501a34c67b,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Chihuahua,63912480-21b8-4209-83b3-e9eff5f4ccff,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Cocker Spaniel,fb17b928-223b-4549-8027-b4355c6fd8bd,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Dachshund,9ad86cbd-8cdd-4987-a6ee-a96a6cbde307,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Doberman,d367fc39-9ed9-4c6b-b922-6fa9a3d59d1d,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+German Shepherd,c7051977-4d8f-433c-933c-8e6ec592d991,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Golden Retriever,e7d963d0-f431-4a68-af9a-6ca293262c2d,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Great Dane,cfbe75fb-c5e4-4efc-a6d9-abb87151c122,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Labrador Retriever,cd9becf9-b784-46fb-b5aa-4a3934d83b5d,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Mastiff,9ba7fb10-962f-4d77-ba61-7e20940c388d,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Pomeranian,6c0686e2-478b-4a48-96af-b628ea8dbbf2,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Poodle,cc3167c2-f05f-4313-b05f-1e3fa1cc7a3a,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Rottweiler,1f1c8ccb-5fc3-4357-a9fc-2a5eff4b400e,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Shih Tzu,b3109073-1613-4a35-a49d-2214b6d494b0,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Siberian Husky,711aca00-e4da-416d-807c-b5c25fcab1d2,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7
+Yorkshire Terrier,659204d9-557f-4cc3-88e4-ae7ae9f37f16,eeccbbc8-d85d-43cb-b98a-7e8e03f389b7

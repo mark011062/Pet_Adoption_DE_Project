@@ -1,190 +1,92 @@
-# \# Pet Adoption Data Engineering Project
+\# Pet Adoption DE Project - Full Workflow
 
-# 
 
-# This project simulates a data engineering pipeline for pet adoption data. It supports multiple snapshots, incremental updates, and loads normalized data into PostgreSQL.
 
-# 
+\# 1. Activate environment
 
-# ---
+\# Linux/Mac:
 
-# 
+source .venv/bin/activate
 
-# \## \*\*Folder Structure\*\*
+\# Windows:
 
-# 
+.venv\\Scripts\\activate
 
-# Pet\_Adoption\_DE\_Project/
 
-# ├── raw/ # Raw CSV snapshots (immutable)
 
-# ├── clean/ # Cleaned CSVs ready for processing
+\# 2. Install dependencies
 
-# ├── clean\_parquet/ # Normalized Parquet tables for loading
+pip install -r requirements.txt
 
-# ├── ingest/ # Scripts to generate or ingest raw snapshots
 
-# ├── transform/ # Scripts to clean and prepare data
 
-# ├── load/ # Scripts to load data into PostgreSQL
+\# 3. Generate raw snapshot
 
-# ├── config/ # Configuration files (DB connection, etc.)
+python -m ingest.generate\_mock\_animals\_csv
 
-# └── tests/ # Optional tests
 
-# 
 
-# yaml
+\# 4. Clean \& normalize data
 
-# Copy code
+python transform/update\_clean\_csvs\_db\_aware.py
 
-# 
 
-# ---
 
-# 
+\# 5. Load incrementally into PostgreSQL
 
-# \## \*\*Workflow\*\*
+python load/load\_parquet\_to\_postgres\_incremental\_v3.py
 
-# 
 
-# \### 1. Generate a new raw snapshot
 
-# ```bash
+\# Notes:
 
-# python -m ingest.generate\_mock\_animals\_csv
+\# - Multiple snapshots handled automatically
 
-# Generates a new CSV in raw/ with randomized date\_arrived and optional adopted\_date.
+\# - Incremental loading preserves existing rows
 
-# 
+\# - UUIDs for all primary/foreign keys
 
-# 2\. Clean and normalize data
+\# - Randomized date\_arrived; adopted\_date optional
 
-# bash
 
-# Copy code
 
-# python transform/update\_clean\_csvs\_db\_aware.py
+\# Folder structure:
 
-# Reads all snapshots in raw/
+\# Pet\_Adoption\_DE\_Project/
 
-# 
+\# ├── raw/               # Raw CSV snapshots
 
-# Produces cleaned CSVs in clean/
+\# ├── clean\_parquet/     # Normalized Parquet tables
 
-# 
+\# ├── ingest/            # Snapshot generation scripts
 
-# Produces normalized Parquet files in clean\_parquet/
+\# ├── transform/         # Cleaning / normalization scripts
 
-# 
+\# ├── load/              # Load into PostgreSQL
 
-# Tables updated: pet\_types, breeds, shelters, pets/animals.
+\# ├── config/            # DB configs
 
-# 
+\# └── tests/             # Optional tests
 
-# 3\. Load data incrementally into PostgreSQL
 
-# bash
 
-# Copy code
+\# Tables:
 
-# python load/load\_parquet\_to\_postgres\_incremental\_v3.py
+\# pet\_types → type\_id, type
 
-# Ensures all tables exist
+\# breeds → breed\_id, breed, type\_id
 
-# 
+\# shelters → shelter\_id, shelter\_name, city, state
 
-# Loads new rows incrementally into: pet\_types, breeds, shelters, animals
+\# animals → pet\_id, name, age, gender, size, status, date\_arrived, adopted\_date, type\_id, breed\_id, shelter\_id, snapshot\_date
 
-# 
 
-# Notes
 
-# Multiple snapshots: The pipeline handles multiple raw snapshots automatically.
+\# Requirements:
 
-# 
+\# - raw/ snapshots exist
 
-# Incremental loading: New data is merged into the existing database without overwriting existing rows.
+\# - clean/ and clean\_parquet/ contain processed data
 
-# 
-
-# UUIDs: All primary/foreign keys are UUIDs to ensure referential integrity.
-
-# 
-
-# Randomized dates: date\_arrived is randomized per pet; adopted\_date is optional.
-
-# 
-
-# Database Schema Overview
-
-# pet\_types → type\_id, type
-
-# 
-
-# breeds → breed\_id, breed, type\_id
-
-# 
-
-# shelters → shelter\_id, shelter\_name, city, state
-
-# 
-
-# animals → pet\_id, name, age, gender, size, status, date\_arrived, adopted\_date, type\_id, breed\_id, shelter\_id, snapshot\_date
-
-# 
-
-# Quick Start
-
-# Activate virtual environment:
-
-# 
-
-# bash
-
-# Copy code
-
-# source .venv/bin/activate  # Linux/Mac
-
-# .venv\\Scripts\\activate     # Windows
-
-# Install dependencies:
-
-# 
-
-# bash
-
-# Copy code
-
-# pip install -r requirements.txt
-
-# Run the full workflow:
-
-# 
-
-# bash
-
-# Copy code
-
-# python -m ingest.generate\_mock\_animals\_csv
-
-# python transform/update\_clean\_csvs\_db\_aware.py
-
-# python load/load\_parquet\_to\_postgres\_incremental\_v3.py
-
-# Contact / Support
-
-# For issues with the pipeline or database errors, ensure that:
-
-# 
-
-# Raw snapshots exist in raw/
-
-# 
-
-# Cleaned CSVs and Parquets exist in clean/ and clean\_parquet/
-
-# 
-
-# PostgreSQL is running and accessible with correct credentials in config/db\_config.py
+\# - PostgreSQL running with credentials in config/db\_config.py
 
